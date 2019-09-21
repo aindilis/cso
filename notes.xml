@@ -1,0 +1,15 @@
+<rss version="2.0">
+  <channel>
+    <title>
+      SourceForge.net: SF.net Project News: CD-Rom Control
+    </title>
+    <link>http://sourceforge.net/projects/crcontrol/</link>
+    <description>
+      SF.net Project News: CD-Rom Control (crcontrol project) - The
+      CD-Rom Control is an X Window control panel which eases the use
+      of the cd-rom drive. It allows you to mount, eject/umount, the
+      cd-rom drive at the click of a button.Other features include
+      autostart and cd status checking.
+    </description>
+  </channel>
+</rss>

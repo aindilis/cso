@@ -1,0 +1,9 @@
+Need to make a Chrooted environment that we can call apt-get update
+   in, and then use this to search for packages.
+
+Demonstration system or Full
+
+I feel like integrating some of the other features planned for
+   Sorcerer,
+including knowing when it has already looked at certain things.  That
+   could use critic, if critic ever gets around to working.

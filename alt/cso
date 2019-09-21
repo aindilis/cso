@@ -1,0 +1,6 @@
+#!/usr/bin/perl -w
+
+use CSO;
+
+$UNIVERSAL::cso = CSO->new();
+$UNIVERSAL::cso->Execute();

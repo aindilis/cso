@@ -1,0 +1,260 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 3:06:31 Jan 28, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 1:47:54 May 7, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body {
+	margin-left: 3em;
+	margin-right: 3em;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #444444;
+}
+
+img {
+	border-width: 0;
+}
+
+div#header {
+	text-align: center;
+	padding-bottom: 2em;
+}
+
+div#header, div#header div {
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#header img {
+	margin-bottom: 1ex;
+}
+
+div#nav {
+	width: 467px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: small;
+	/*
+	text-transform: lowercase;
+	font-variant: small-caps;
+	padding-bottom: .25ex
+	*/
+	margin: 0px;
+	/*
+	padding: 0px;
+	*/
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0.25ex;
+	padding-bottom: 0.25ex;
+	/* background: #0F0F0F; */
+	background: black;
+	color: white;
+}
+
+div#nav a,
+div#nav a:visited,
+div#nav a:active,
+div#nav a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+div#nav a:hover {
+	text-decoration: underline;
+}
+
+a,
+a:visited {
+	/* color: #018D28; */
+	color: black;
+}
+
+/*
+a:hover {
+	color: #444444;
+}
+*/
+
+a:active, a:hover {
+	color: #0000CC;
+}
+
+div#footer {
+	font-size: x-small;
+	margin-top: 3em;
+	text-align: center;
+	clear: both;
+}
+
+h1 {
+	font-size: larger;
+	color: black;
+	font-weight: bold;
+	padding-bottom: .5ex;
+	margin: 0px;
+}
+
+h2 {
+	font-size: medium;
+	color: black;
+}
+
+div {
+	margin-top: 1em;
+}
+
+body div div {
+	margin-top: 0;
+}
+
+div#more {
+	width: 100%;
+}
+
+div#more ul li {
+	list-style: inside circle;
+}
+
+div#news {
+	width: 34%;
+	float: right;
+	/* border-left: thin solid #018D28; */
+	border-left: 2px solid black;
+	padding-left: 1em;
+	margin-left: 1em;
+	padding-bottom: 0.5ex;
+}
+
+div.newsitem {
+	padding-bottom: 1em;
+}
+
+.newshead {
+	font-weight: bold;
+	color: black;
+}
+
+.descr {
+	font-weight: bold;
+}
+
+.url {
+	font-family: monospace;
+}
+
+div.url {
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
+
+/*
+#featured .descr,
+#featured .packages {
+	margin-left: 1em;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+*/
+
+.timeadded {
+	font-size: smaller;
+	font-style: italic;
+}
+
+.download {
+	font-size: smaller;
+}
+
+.packages_partial, .packages_all {
+	font-size: smaller;
+}
+
+div.packages_partial {
+	margin-top: 1ex;
+	width: 34%;
+	float: right;
+	/* border-left: thin solid #018D28; */
+	border-left: 2px solid black;
+	padding-left: 1em;
+	margin-left: 1em;
+	margin-bottom: 1em;
+	padding-bottom: 0.5ex;
+}
+
+ul {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
+}
+
+ul.nobullets li {
+	list-style: none;
+}
+
+div.verifiedsite,
+div.unverifiedsite,
+div.badverifiedsite {
+	clear: both;
+}
+
+li.verifiedsite,
+li.unverifiedsite,
+li.badverifiedsite,
+li.packagelist {
+	list-style: none;
+	clear: both;
+}
+
+li.packagelist {
+	font-size: smaller;
+}
+
+a.label,
+a:active.label,
+a:hover.label,
+a:visited.label {
+	color: inherit;
+}
+.label {
+	font-weight: bold;
+}
+
+form .required {
+	font-weight: bold;
+}
+
+table.form th {
+	vertical-align: top;
+	text-align: left;
+}
+
+table.form td.single {
+	text-align: right;
+}
+
+table.form textarea {
+	width: 100%;
+}
+
+table.form input[type=text] {
+	width: 100%;
+}
+
+ul.errorlist li {
+	list-style: none;
+	font-weight: bold;
+	color: red;
+}
+.emphasized {
+	font-weight: bold;
+	color: black;
+}

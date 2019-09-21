@@ -1,0 +1,1645 @@
+./cso2 
+Statement unlikely to be reached at /usr/share/perl5/Proc/Daemon.pm line 260.
+	(Maybe you meant system() when you said exec()?)
+Fetching: http://code.google.com/p/flossmole/downloads/list?num=1000
+Fetching: http://code.google.com/p/flossmole/downloads/list?num=1000&start=1000
+Fetching: http://code.google.com/p/flossmole/downloads/list?num=1000&start=2000
+ERROR: linktext datamart_deb_metrics.2011-Jan.tar.bz2
+ERROR: linktext datamart_sf_stats_4.sql.bz2
+ERROR: linktext datamart_sf_stats_13.sql.bz2
+ERROR: linktext datamart_sf_stats.sql.bz2
+ERROR: linktext datamart_sf_other.sql.bz2
+ERROR: linktext datamart_rf.sql.bz2
+ERROR: linktext datamart_ow.sql.bz2
+ERROR: linktext datamart_fsf.sql.bz2
+ERROR: linktext datamart_fm_projects.sql.bz2
+ERROR: linktext datamart_fm_project_trove.sql.bz2
+ERROR: linktext datamart_fm_other.sql.bz2
+ERROR: linktext datamart_61.sql.bz2
+ERROR: linktext datamart_60.sql.bz2
+ERROR: linktext datamart_59.sql.bz2
+ERROR: linktext datamart_58_fm_projects.sql.bz2
+ERROR: linktext datamart_58_fm_project_trove.sql.bz2
+ERROR: linktext datamart_58.sql.bz2
+ERROR: linktext datamart_57_stats.sql.bz2
+ERROR: linktext datamart_57.sql.bz2
+ERROR: linktext datamart_sf_other.2008-Aug.sql.new.1.bz2
+$VAR1 = {
+          'sv' => {
+                  'structure' => {
+                                 '201208' => {
+                                             'LinkText' => 'datamart_sv_structure.2012-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv_structure.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201209' => {
+                                             'LinkText' => 'datamart_sv_structure.2012-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv_structure.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201211' => {
+                                             'LinkText' => 'datamart_sv_structure.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv_structure.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               },
+                  'unknown' => {
+                                 '201101' => {
+                                             'LinkText' => 'datamart_sv.2011-Jan.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2011-Jan.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201111' => {
+                                             'LinkText' => 'datamart_sv.2011-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201211' => {
+                                             'LinkText' => 'datamart_sv.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201201' => {
+                                             'LinkText' => 'datamart_sv.2012-Jan.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201103' => {
+                                             'LinkText' => 'datamart_sv.2011-Mar.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201208' => {
+                                             'LinkText' => 'datamart_sv.2012-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200912' => {
+                                             'LinkText' => 'datamart_sv.2009-Dec.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201105' => {
+                                             'LinkText' => 'datamart_sv.2011-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2011-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201207' => {
+                                             'LinkText' => 'datamart_sv.2012-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201009' => {
+                                             'LinkText' => 'datamart_sv.2010-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201205' => {
+                                             'LinkText' => 'datamart_sv.2012-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2012-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201005' => {
+                                             'LinkText' => 'datamart_sv.2010-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2010-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200911' => {
+                                             'LinkText' => 'datamart_sv.2009-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2009-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201109' => {
+                                             'LinkText' => 'datamart_sv.2011-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2011-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200910' => {
+                                             'LinkText' => 'datamart_sv.2009-Oct.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2009-Oct.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201002' => {
+                                             'LinkText' => 'datamart_sv.2010-Feb.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2010-Feb.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201209' => {
+                                             'LinkText' => 'datamart_sv.2012-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201104' => {
+                                             'LinkText' => 'datamart_sv.2011-Apr.sql.bz2',
+                                             'Link' => 'detail?name=datamart_sv.2011-Apr.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               }
+                },
+          'fm' => {
+                  'project_trove' => {
+                                     '200707' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2007-Jul.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2007-Jul.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200710' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2007-Oct.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2007-Oct.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200804' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2008-Apr.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2008-Apr.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201101' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2011-Jan.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2011-Jan.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201111' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2011-Nov.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201201' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2012-Jan.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200810' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2008-Oct.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2008-Oct.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201103' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2011-Mar.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200906' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2009-Jun.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200912' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2009-Dec.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201105' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2011-May.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2011-May.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200808' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2008-Aug.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200802' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2008-Feb.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2008-Feb.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201009' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2010-Sep.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201205' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2012-May.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2012-May.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200812' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2008-Dec.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201005' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2010-May.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2010-May.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200807' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2008-Jul.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2008-Jul.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200911' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2009-Nov.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2009-Nov.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200910' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2009-Oct.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2009-Oct.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201002' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2010-Feb.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2010-Feb.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200907' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2009-Jul.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2009-Jul.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200806' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2008-Jun.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2008-Jun.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200712' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2007-Dec.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2007-Dec.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201104' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2011-Apr.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2011-Apr.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200708' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2007-Aug.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2007-Aug.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200801' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2008-Jan.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2008-Jan.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '200711' => {
+                                                 'LinkText' => 'datamart_fm_project_trove.2007-Nov.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fm_project_trove.2007-Nov.sql.bz2&amp;can=2&amp;q='
+                                               }
+                                   },
+                  'project_tags' => {
+                                    '201205' => {
+                                                'LinkText' => 'datamart_fm_project_tags.2012-May.sql.bz2',
+                                                'Link' => 'detail?name=datamart_fm_project_tags.2012-May.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '201111' => {
+                                                'LinkText' => 'datamart_fm_project_tags.2011-Nov.sql.bz2',
+                                                'Link' => 'detail?name=datamart_fm_project_tags.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '201201' => {
+                                                'LinkText' => 'datamart_fm_project_tags.2012-Jan.sql.bz2',
+                                                'Link' => 'detail?name=datamart_fm_project_tags.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                              }
+                                  },
+                  'trove_defs' => {
+                                  '200710' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2007-Oct.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2007-Oct.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200804' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2008-Apr.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2008-Apr.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201101' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2011-Jan.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2011-Jan.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201111' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2011-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201201' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2012-Jan.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200810' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2008-Oct.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2008-Oct.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201103' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2011-Mar.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200906' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2009-Jun.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200912' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2009-Dec.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201105' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2011-May.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2011-May.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200808' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2008-Aug.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200802' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2008-Feb.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2008-Feb.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201009' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2010-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201205' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2012-May.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2012-May.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200812' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2008-Dec.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201005' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2010-May.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2010-May.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200807' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2008-Jul.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2008-Jul.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200911' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2009-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2009-Nov.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200910' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2009-Oct.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2009-Oct.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201002' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2010-Feb.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2010-Feb.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200907' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2009-Jul.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2009-Jul.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200806' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2008-Jun.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2008-Jun.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200712' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2007-Dec.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2007-Dec.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201104' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2011-Apr.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2011-Apr.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200708' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2007-Aug.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2007-Aug.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200801' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2008-Jan.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2008-Jan.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200711' => {
+                                              'LinkText' => 'datamart_fm_trove_defs.2007-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fm_trove_defs.2007-Nov.sql.bz2&amp;can=2&amp;q='
+                                            }
+                                },
+                  'other' => {
+                             '200707' => {
+                                         'LinkText' => 'datamart_fm_other.2007-Jul.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2007-Jul.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200710' => {
+                                         'LinkText' => 'datamart_fm_other.2007-Oct.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2007-Oct.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200804' => {
+                                         'LinkText' => 'datamart_fm_other.2008-Apr.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2008-Apr.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201101' => {
+                                         'LinkText' => 'datamart_fm_other.2011-Jan.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2011-Jan.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201111' => {
+                                         'LinkText' => 'datamart_fm_other.2011-Nov.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201201' => {
+                                         'LinkText' => 'datamart_fm_other.2012-Jan.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200810' => {
+                                         'LinkText' => 'datamart_fm_other.2008-Oct.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2008-Oct.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201103' => {
+                                         'LinkText' => 'datamart_fm_other.2011-Mar.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200906' => {
+                                         'LinkText' => 'datamart_fm_other.2009-Jun.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200912' => {
+                                         'LinkText' => 'datamart_fm_other.2009-Dec.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201105' => {
+                                         'LinkText' => 'datamart_fm_other.2011-May.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2011-May.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200808' => {
+                                         'LinkText' => 'datamart_fm_other.2008-Aug.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200802' => {
+                                         'LinkText' => 'datamart_fm_other.2008-Feb.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2008-Feb.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201009' => {
+                                         'LinkText' => 'datamart_fm_other.2010-Sep.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201205' => {
+                                         'LinkText' => 'datamart_fm_other.2012-May.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2012-May.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200812' => {
+                                         'LinkText' => 'datamart_fm_other.2008-Dec.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201005' => {
+                                         'LinkText' => 'datamart_fm_other.2010-May.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2010-May.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200807' => {
+                                         'LinkText' => 'datamart_fm_other.2008-Jul.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2008-Jul.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200911' => {
+                                         'LinkText' => 'datamart_fm_other.2009-Nov.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2009-Nov.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200910' => {
+                                         'LinkText' => 'datamart_fm_other.2009-Oct.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2009-Oct.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201002' => {
+                                         'LinkText' => 'datamart_fm_other.2010-Feb.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2010-Feb.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200907' => {
+                                         'LinkText' => 'datamart_fm_other.2009-Jul.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2009-Jul.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200806' => {
+                                         'LinkText' => 'datamart_fm_other.2008-Jun.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2008-Jun.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200712' => {
+                                         'LinkText' => 'datamart_fm_other.2007-Dec.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2007-Dec.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201104' => {
+                                         'LinkText' => 'datamart_fm_other.2011-Apr.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2011-Apr.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200708' => {
+                                         'LinkText' => 'datamart_fm_other.2007-Aug.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2007-Aug.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200801' => {
+                                         'LinkText' => 'datamart_fm_other.2008-Jan.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2008-Jan.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200711' => {
+                                         'LinkText' => 'datamart_fm_other.2007-Nov.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fm_other.2007-Nov.sql.bz2&amp;can=2&amp;q='
+                                       }
+                           },
+                  'projects' => {
+                                '200707' => {
+                                            'LinkText' => 'datamart_fm_projects.2007-Jul.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2007-Jul.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200710' => {
+                                            'LinkText' => 'datamart_fm_projects.2007-Oct.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2007-Oct.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200804' => {
+                                            'LinkText' => 'datamart_fm_projects.2008-Apr.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2008-Apr.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201101' => {
+                                            'LinkText' => 'datamart_fm_projects.2011-Jan.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2011-Jan.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201111' => {
+                                            'LinkText' => 'datamart_fm_projects.2011-Nov.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201201' => {
+                                            'LinkText' => 'datamart_fm_projects.2012-Jan.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200810' => {
+                                            'LinkText' => 'datamart_fm_projects.2008-Oct.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2008-Oct.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201103' => {
+                                            'LinkText' => 'datamart_fm_projects.2011-Mar.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200906' => {
+                                            'LinkText' => 'datamart_fm_projects.2009-Jun.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200912' => {
+                                            'LinkText' => 'datamart_fm_projects.2009-Dec.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201105' => {
+                                            'LinkText' => 'datamart_fm_projects.2011-May.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2011-May.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200808' => {
+                                            'LinkText' => 'datamart_fm_projects.2008-Aug.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200802' => {
+                                            'LinkText' => 'datamart_fm_projects.2008-Feb.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2008-Feb.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201009' => {
+                                            'LinkText' => 'datamart_fm_projects.2010-Sep.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201205' => {
+                                            'LinkText' => 'datamart_fm_projects.2012-May.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2012-May.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200812' => {
+                                            'LinkText' => 'datamart_fm_projects.2008-Dec.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201005' => {
+                                            'LinkText' => 'datamart_fm_projects.2010-May.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2010-May.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200807' => {
+                                            'LinkText' => 'datamart_fm_projects.2008-Jul.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2008-Jul.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200911' => {
+                                            'LinkText' => 'datamart_fm_projects.2009-Nov.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2009-Nov.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200910' => {
+                                            'LinkText' => 'datamart_fm_projects.2009-Oct.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2009-Oct.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201002' => {
+                                            'LinkText' => 'datamart_fm_projects.2010-Feb.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2010-Feb.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200907' => {
+                                            'LinkText' => 'datamart_fm_projects.2009-Jul.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2009-Jul.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200806' => {
+                                            'LinkText' => 'datamart_fm_projects.2008-Jun.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2008-Jun.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200712' => {
+                                            'LinkText' => 'datamart_fm_projects.2007-Dec.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2007-Dec.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201104' => {
+                                            'LinkText' => 'datamart_fm_projects.2011-Apr.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2011-Apr.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200708' => {
+                                            'LinkText' => 'datamart_fm_projects.2007-Aug.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2007-Aug.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200801' => {
+                                            'LinkText' => 'datamart_fm_projects.2008-Jan.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2008-Jan.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '200711' => {
+                                            'LinkText' => 'datamart_fm_projects.2007-Nov.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fm_projects.2007-Nov.sql.bz2&amp;can=2&amp;q='
+                                          }
+                              }
+                },
+          'lpd' => {
+                   'unknown' => {
+                                  '201205' => {
+                                              'LinkText' => 'datamart_lpd.2012-May.sql.bz2',
+                                              'Link' => 'detail?name=datamart_lpd.2012-May.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201209' => {
+                                              'LinkText' => 'datamart_lpd.2012-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_lpd.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201111' => {
+                                              'LinkText' => 'datamart_lpd.2011-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_lpd.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201109' => {
+                                              'LinkText' => 'datamart_lpd.2011-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_lpd.2011-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201106' => {
+                                              'LinkText' => 'datamart_lpd.2011-Jun.sql.bz2',
+                                              'Link' => 'detail?name=datamart_lpd.2011-Jun.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201201' => {
+                                              'LinkText' => 'datamart_lpd.2012-Jan.sql.bz2',
+                                              'Link' => 'detail?name=datamart_lpd.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                            }
+                                }
+                 },
+          'fsf' => {
+                   'structure' => {
+                                  '201208' => {
+                                              'LinkText' => 'datamart_fsf_structure.2012-Aug.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf_structure.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201209' => {
+                                              'LinkText' => 'datamart_fsf_structure.2012-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf_structure.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201211' => {
+                                              'LinkText' => 'datamart_fsf_structure.2012-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf_structure.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                            }
+                                },
+                   'unknown' => {
+                                  '200707' => {
+                                              'LinkText' => 'datamart_fsf.2007-Jul.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2007-Jul.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200710' => {
+                                              'LinkText' => 'datamart_fsf.2007-Oct.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2007-Oct.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201101' => {
+                                              'LinkText' => 'datamart_fsf.2011-Jan.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2011-Jan.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201211' => {
+                                              'LinkText' => 'datamart_fsf.2012-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201208' => {
+                                              'LinkText' => 'datamart_fsf.2012-Aug.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201103' => {
+                                              'LinkText' => 'datamart_fsf.2011-Mar.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200912' => {
+                                              'LinkText' => 'datamart_fsf.2009-Dec.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201207' => {
+                                              'LinkText' => 'datamart_fsf.2012-Jul.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201105' => {
+                                              'LinkText' => 'datamart_fsf.2011-May.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2011-May.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200905' => {
+                                              'LinkText' => 'datamart_fsf.2009-May.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2009-May.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201009' => {
+                                              'LinkText' => 'datamart_fsf.2010-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201205' => {
+                                              'LinkText' => 'datamart_fsf.2012-May.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2012-May.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201005' => {
+                                              'LinkText' => 'datamart_fsf.2010-May.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2010-May.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200911' => {
+                                              'LinkText' => 'datamart_fsf.2009-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2009-Nov.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201109' => {
+                                              'LinkText' => 'datamart_fsf.2011-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2011-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200910' => {
+                                              'LinkText' => 'datamart_fsf.2009-Oct.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2009-Oct.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201002' => {
+                                              'LinkText' => 'datamart_fsf.2010-Feb.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2010-Feb.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200907' => {
+                                              'LinkText' => 'datamart_fsf.2009-Jul.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2009-Jul.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201209' => {
+                                              'LinkText' => 'datamart_fsf.2012-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201104' => {
+                                              'LinkText' => 'datamart_fsf.2011-Apr.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2011-Apr.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200708' => {
+                                              'LinkText' => 'datamart_fsf.2007-Aug.sql.bz2',
+                                              'Link' => 'detail?name=datamart_fsf.2007-Aug.sql.bz2&amp;can=2&amp;q='
+                                            }
+                                }
+                 },
+          'al' => {
+                  'unknown' => {
+                                 '201111' => {
+                                             'LinkText' => 'datamart_al.2011-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_al.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201109' => {
+                                             'LinkText' => 'datamart_al.2011-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_al.2011-Sep.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               },
+                  'structure' => {
+                                 '201208' => {
+                                             'LinkText' => 'datamart_al_structure.2012-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_al_structure.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201209' => {
+                                             'LinkText' => 'datamart_al_structure.2012-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_al_structure.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201211' => {
+                                             'LinkText' => 'datamart_al_structure.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_al_structure.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               },
+                  'projects' => {
+                                '201208' => {
+                                            'LinkText' => 'datamart_al_projects.2012-Aug.sql.bz2',
+                                            'Link' => 'detail?name=datamart_al_projects.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201205' => {
+                                            'LinkText' => 'datamart_al_projects.2012-May.sql.bz2',
+                                            'Link' => 'detail?name=datamart_al_projects.2012-May.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201209' => {
+                                            'LinkText' => 'datamart_al_projects.2012-Sep.sql.bz2',
+                                            'Link' => 'detail?name=datamart_al_projects.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201207' => {
+                                            'LinkText' => 'datamart_al_projects.2012-Jul.sql.bz2',
+                                            'Link' => 'detail?name=datamart_al_projects.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201211' => {
+                                            'LinkText' => 'datamart_al_projects.2012-Nov.sql.bz2',
+                                            'Link' => 'detail?name=datamart_al_projects.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                          }
+                              }
+                },
+          'lp' => {
+                  'unknown' => {
+                                 '201006' => {
+                                             'LinkText' => 'datamart_lp.2010-Jun.sql.bz2',
+                                             'Link' => 'detail?name=datamart_lp.2010-Jun.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               }
+                },
+          'rf' => {
+                  'structure' => {
+                                 '201208' => {
+                                             'LinkText' => 'datamart_rf_structure.2012-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf_structure.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201209' => {
+                                             'LinkText' => 'datamart_rf_structure.2012-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf_structure.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201211' => {
+                                             'LinkText' => 'datamart_rf_structure.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf_structure.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               },
+                  'unknown' => {
+                                 '200707' => {
+                                             'LinkText' => 'datamart_rf.2007-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2007-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200710' => {
+                                             'LinkText' => 'datamart_rf.2007-Oct.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2007-Oct.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200804' => {
+                                             'LinkText' => 'datamart_rf.2008-Apr.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2008-Apr.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201101' => {
+                                             'LinkText' => 'datamart_rf.2011-Jan.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2011-Jan.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200904' => {
+                                             'LinkText' => 'datamart_rf.2009-Apr.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2009-Apr.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201111' => {
+                                             'LinkText' => 'datamart_rf.2011-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201211' => {
+                                             'LinkText' => 'datamart_rf.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201201' => {
+                                             'LinkText' => 'datamart_rf.2012-Jan.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200810' => {
+                                             'LinkText' => 'datamart_rf.2008-Oct.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2008-Oct.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201103' => {
+                                             'LinkText' => 'datamart_rf.2011-Mar.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201208' => {
+                                             'LinkText' => 'datamart_rf.2012-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200906' => {
+                                             'LinkText' => 'datamart_rf.2009-Jun.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200912' => {
+                                             'LinkText' => 'datamart_rf.2009-Dec.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201105' => {
+                                             'LinkText' => 'datamart_rf.2011-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2011-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201207' => {
+                                             'LinkText' => 'datamart_rf.2012-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200808' => {
+                                             'LinkText' => 'datamart_rf.2008-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200905' => {
+                                             'LinkText' => 'datamart_rf.2009-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2009-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200802' => {
+                                             'LinkText' => 'datamart_rf.2008-Feb.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2008-Feb.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201009' => {
+                                             'LinkText' => 'datamart_rf.2010-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201205' => {
+                                             'LinkText' => 'datamart_rf.2012-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2012-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200812' => {
+                                             'LinkText' => 'datamart_rf.2008-Dec.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201005' => {
+                                             'LinkText' => 'datamart_rf.2010-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2010-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200807' => {
+                                             'LinkText' => 'datamart_rf.2008-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2008-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201109' => {
+                                             'LinkText' => 'datamart_rf.2011-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2011-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200910' => {
+                                             'LinkText' => 'datamart_rf.2009-Oct.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2009-Oct.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201002' => {
+                                             'LinkText' => 'datamart_rf.2010-Feb.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2010-Feb.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200907' => {
+                                             'LinkText' => 'datamart_rf.2009-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2009-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201209' => {
+                                             'LinkText' => 'datamart_rf.2012-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200712' => {
+                                             'LinkText' => 'datamart_rf.2007-Dec.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2007-Dec.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200708' => {
+                                             'LinkText' => 'datamart_rf.2007-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2007-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201104' => {
+                                             'LinkText' => 'datamart_rf.2011-Apr.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2011-Apr.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200711' => {
+                                             'LinkText' => 'datamart_rf.2007-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2007-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200801' => {
+                                             'LinkText' => 'datamart_rf.2008-Jan.sql.bz2',
+                                             'Link' => 'detail?name=datamart_rf.2008-Jan.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               }
+                },
+          'deb' => {
+                   'unknown' => {
+                                  '200707' => {
+                                              'LinkText' => 'datamart_deb.2007-Jul.sql.bz2',
+                                              'Link' => 'detail?name=datamart_deb.2007-Jul.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '200808' => {
+                                              'LinkText' => 'datamart_deb.2008-Aug.sql.bz2',
+                                              'Link' => 'detail?name=datamart_deb.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                            }
+                                }
+                 },
+          'sf' => {
+                  'datasources' => {
+                                   '200806' => {
+                                               'LinkText' => 'datamart_sf_datasources.2008-Jun.sql.bz2',
+                                               'Link' => 'detail?name=datamart_sf_datasources.2008-Jun.sql.bz2&amp;can=2&amp;q='
+                                             },
+                                   '200807' => {
+                                               'LinkText' => 'datamart_sf_datasources.2008-Jul.sql.bz2',
+                                               'Link' => 'detail?name=datamart_sf_datasources.2008-Jul.sql.bz2&amp;can=2&amp;q='
+                                             }
+                                 },
+                  'forges' => {
+                              '200806' => {
+                                          'LinkText' => 'datamart_sf_forges.2008-Jun.sql.bz2',
+                                          'Link' => 'detail?name=datamart_sf_forges.2008-Jun.sql.bz2&amp;can=2&amp;q='
+                                        },
+                              '200807' => {
+                                          'LinkText' => 'datamart_sf_forges.2008-Jul.sql.bz2',
+                                          'Link' => 'detail?name=datamart_sf_forges.2008-Jul.sql.bz2&amp;can=2&amp;q='
+                                        }
+                            },
+                  'other' => {
+                             '200710' => {
+                                         'LinkText' => 'datamart_sf_other.2007-Oct.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2007-Oct.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200804' => {
+                                         'LinkText' => 'datamart_sf_other.2008-Apr.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2008-Apr.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200812' => {
+                                         'LinkText' => 'datamart_sf_other.2008-Dec.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200904' => {
+                                         'LinkText' => 'datamart_sf_other.2009-Apr.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2009-Apr.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200810' => {
+                                         'LinkText' => 'datamart_sf_other.2008-Oct.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2008-Oct.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200806' => {
+                                         'LinkText' => 'datamart_sf_other.2008-Jun.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2008-Jun.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200906' => {
+                                         'LinkText' => 'datamart_sf_other.2009-Jun.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200912' => {
+                                         'LinkText' => 'datamart_sf_other.2009-Dec.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200712' => {
+                                         'LinkText' => 'datamart_sf_other.2007-Dec.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2007-Dec.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200808' => {
+                                         'LinkText' => 'datamart_sf_other.2008-Aug.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200708' => {
+                                         'LinkText' => 'datamart_sf_other.2007-Aug.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2007-Aug.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200802' => {
+                                         'LinkText' => 'datamart_sf_other.2008-Feb.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_other.2008-Feb.sql.bz2&amp;can=2&amp;q='
+                                       }
+                           },
+                  'stats' => {
+                             '200710' => {
+                                         'LinkText' => 'datamart_sf_stats.2007-Oct.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_stats.2007-Oct.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200804' => {
+                                         'LinkText' => 'datamart_sf_stats.2008-Apr.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_stats.2008-Apr.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200812' => {
+                                         'LinkText' => 'datamart_sf_stats.2008-Dec.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_stats.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200904' => {
+                                         'LinkText' => 'datamart_sf_stats.2009-Apr.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_stats.2009-Apr.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200806' => {
+                                         'LinkText' => 'datamart_sf_stats.2008-Jun.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_stats.2008-Jun.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200906' => {
+                                         'LinkText' => 'datamart_sf_stats.2009-Jun.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_stats.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200712' => {
+                                         'LinkText' => 'datamart_sf_stats.2007-Dec.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_stats.2007-Dec.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200708' => {
+                                         'LinkText' => 'datamart_sf_stats.2007-Aug.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_stats.2007-Aug.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '200802' => {
+                                         'LinkText' => 'datamart_sf_stats.2008-Feb.sql.bz2',
+                                         'Link' => 'detail?name=datamart_sf_stats.2008-Feb.sql.bz2&amp;can=2&amp;q='
+                                       }
+                           }
+                },
+          'top' => {
+                   'datasources' => {
+                                    '200810' => {
+                                                'LinkText' => 'datamart_top_datasources.2008-Oct.sql.bz2',
+                                                'Link' => 'detail?name=datamart_top_datasources.2008-Oct.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '200907' => {
+                                                'LinkText' => 'datamart_top_datasources.2009-Jul.sql.bz2',
+                                                'Link' => 'detail?name=datamart_top_datasources.2009-Jul.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '200906' => {
+                                                'LinkText' => 'datamart_top_datasources.2009-Jun.sql.bz2',
+                                                'Link' => 'detail?name=datamart_top_datasources.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '200812' => {
+                                                'LinkText' => 'datamart_top_datasources.2008-Dec.sql.bz2',
+                                                'Link' => 'detail?name=datamart_top_datasources.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '200904' => {
+                                                'LinkText' => 'datamart_top_datasources.2009-Apr.sql.bz2',
+                                                'Link' => 'detail?name=datamart_top_datasources.2009-Apr.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '200808' => {
+                                                'LinkText' => 'datamart_top_datasources.2008-Aug.sql.bz2',
+                                                'Link' => 'detail?name=datamart_top_datasources.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '200905' => {
+                                                'LinkText' => 'datamart_top_datasources.2009-May.sql.bz2',
+                                                'Link' => 'detail?name=datamart_top_datasources.2009-May.sql.bz2&amp;can=2&amp;q='
+                                              }
+                                  },
+                   'forges' => {
+                               '200810' => {
+                                           'LinkText' => 'datamart_top_forges.2008-Oct.sql.bz2',
+                                           'Link' => 'detail?name=datamart_top_forges.2008-Oct.sql.bz2&amp;can=2&amp;q='
+                                         },
+                               '200907' => {
+                                           'LinkText' => 'datamart_top_forges.2009-Jul.sql.bz2',
+                                           'Link' => 'detail?name=datamart_top_forges.2009-Jul.sql.bz2&amp;can=2&amp;q='
+                                         },
+                               '200906' => {
+                                           'LinkText' => 'datamart_top_forges.2009-Jun.sql.bz2',
+                                           'Link' => 'detail?name=datamart_top_forges.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                         },
+                               '200812' => {
+                                           'LinkText' => 'datamart_top_forges.2008-Dec.sql.bz2',
+                                           'Link' => 'detail?name=datamart_top_forges.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                         },
+                               '200904' => {
+                                           'LinkText' => 'datamart_top_forges.2009-Apr.sql.bz2',
+                                           'Link' => 'detail?name=datamart_top_forges.2009-Apr.sql.bz2&amp;can=2&amp;q='
+                                         },
+                               '200808' => {
+                                           'LinkText' => 'datamart_top_forges.2008-Aug.sql.bz2',
+                                           'Link' => 'detail?name=datamart_top_forges.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                         },
+                               '200905' => {
+                                           'LinkText' => 'datamart_top_forges.2009-May.sql.bz2',
+                                           'Link' => 'detail?name=datamart_top_forges.2009-May.sql.bz2&amp;can=2&amp;q='
+                                         }
+                             }
+                 },
+          'fc' => {
+                  'project_trove' => {
+                                     '201208' => {
+                                                 'LinkText' => 'datamart_fc_project_trove.2012-Aug.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fc_project_trove.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201209' => {
+                                                 'LinkText' => 'datamart_fc_project_trove.2012-Sep.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fc_project_trove.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201207' => {
+                                                 'LinkText' => 'datamart_fc_project_trove.2012-Jul.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fc_project_trove.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                               },
+                                     '201211' => {
+                                                 'LinkText' => 'datamart_fc_project_trove.2012-Nov.sql.bz2',
+                                                 'Link' => 'detail?name=datamart_fc_project_trove.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                               }
+                                   },
+                  'project_tags' => {
+                                    '201208' => {
+                                                'LinkText' => 'datamart_fc_project_tags.2012-Aug.sql.bz2',
+                                                'Link' => 'detail?name=datamart_fc_project_tags.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '201209' => {
+                                                'LinkText' => 'datamart_fc_project_tags.2012-Sep.sql.bz2',
+                                                'Link' => 'detail?name=datamart_fc_project_tags.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '201207' => {
+                                                'LinkText' => 'datamart_fc_project_tags.2012-Jul.sql.bz2',
+                                                'Link' => 'detail?name=datamart_fc_project_tags.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                              },
+                                    '201211' => {
+                                                'LinkText' => 'datamart_fc_project_tags.2012-Nov.sql.bz2',
+                                                'Link' => 'detail?name=datamart_fc_project_tags.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                              }
+                                  },
+                  'structure' => {
+                                 '201208' => {
+                                             'LinkText' => 'datamart_fc_structure.2012-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_fc_structure.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201209' => {
+                                             'LinkText' => 'datamart_fc_structure.2012-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_fc_structure.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201211' => {
+                                             'LinkText' => 'datamart_fc_structure.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_fc_structure.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               },
+                  'other' => {
+                             '201208' => {
+                                         'LinkText' => 'datamart_fc_other.2012-Aug.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fc_other.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201209' => {
+                                         'LinkText' => 'datamart_fc_other.2012-Sep.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fc_other.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201207' => {
+                                         'LinkText' => 'datamart_fc_other.2012-Jul.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fc_other.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                       },
+                             '201211' => {
+                                         'LinkText' => 'datamart_fc_other.2012-Nov.sql.bz2',
+                                         'Link' => 'detail?name=datamart_fc_other.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                       }
+                           },
+                  'projects' => {
+                                '201208' => {
+                                            'LinkText' => 'datamart_fc_projects.2012-Aug.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fc_projects.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201209' => {
+                                            'LinkText' => 'datamart_fc_projects.2012-Sep.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fc_projects.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201207' => {
+                                            'LinkText' => 'datamart_fc_projects.2012-Jul.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fc_projects.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                          },
+                                '201211' => {
+                                            'LinkText' => 'datamart_fc_projects.2012-Nov.sql.bz2',
+                                            'Link' => 'detail?name=datamart_fc_projects.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                          }
+                              }
+                },
+          'gh' => {
+                  'unknown' => {
+                                 '201009' => {
+                                             'LinkText' => 'datamart_gh.2010-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201205' => {
+                                             'LinkText' => 'datamart_gh.2012-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2012-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201005' => {
+                                             'LinkText' => 'datamart_gh.2010-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2010-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200911' => {
+                                             'LinkText' => 'datamart_gh.2009-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2009-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201111' => {
+                                             'LinkText' => 'datamart_gh.2011-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201109' => {
+                                             'LinkText' => 'datamart_gh.2011-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2011-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200910' => {
+                                             'LinkText' => 'datamart_gh.2009-Oct.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2009-Oct.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201002' => {
+                                             'LinkText' => 'datamart_gh.2010-Feb.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2010-Feb.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201106' => {
+                                             'LinkText' => 'datamart_gh.2011-Jun.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2011-Jun.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201202' => {
+                                             'LinkText' => 'datamart_gh.2012-Feb.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2012-Feb.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200912' => {
+                                             'LinkText' => 'datamart_gh.2009-Dec.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201207' => {
+                                             'LinkText' => 'datamart_gh.2012-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gh.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               }
+                },
+          'tg' => {
+                  'unknown' => {
+                                 '201009' => {
+                                             'LinkText' => 'datamart_tg.2010-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_tg.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201103' => {
+                                             'LinkText' => 'datamart_tg.2011-Mar.sql.bz2',
+                                             'Link' => 'detail?name=datamart_tg.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201006' => {
+                                             'LinkText' => 'datamart_tg.2010-Jun.sql.bz2',
+                                             'Link' => 'detail?name=datamart_tg.2010-Jun.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201101' => {
+                                             'LinkText' => 'datamart_tg.2011-Jan.sql.bz2',
+                                             'Link' => 'detail?name=datamart_tg.2011-Jan.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               }
+                },
+          'gc' => {
+                  'unknown' => {
+                                 '201009' => {
+                                             'LinkText' => 'datamart_gc.2010-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201205' => {
+                                             'LinkText' => 'datamart_gc.2012-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2012-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201005' => {
+                                             'LinkText' => 'datamart_gc.2010-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2010-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201008' => {
+                                             'LinkText' => 'datamart_gc.2010-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2010-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201111' => {
+                                             'LinkText' => 'datamart_gc.2011-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201211' => {
+                                             'LinkText' => 'datamart_gc.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201202' => {
+                                             'LinkText' => 'datamart_gc.2012-Feb.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2012-Feb.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201103' => {
+                                             'LinkText' => 'datamart_gc.2011-Mar.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201003' => {
+                                             'LinkText' => 'datamart_gc.2010-Mar.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2010-Mar.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201207' => {
+                                             'LinkText' => 'datamart_gc.2012-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201105' => {
+                                             'LinkText' => 'datamart_gc.2011-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc.2011-May.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               },
+                  'structure' => {
+                                 '201211' => {
+                                             'LinkText' => 'datamart_gc_structure.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_gc_structure.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               }
+                },
+          'tig' => {
+                   'structure' => {
+                                  '201208' => {
+                                              'LinkText' => 'datamart_tig_structure.2012-Aug.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig_structure.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201209' => {
+                                              'LinkText' => 'datamart_tig_structure.2012-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig_structure.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201211' => {
+                                              'LinkText' => 'datamart_tig_structure.2012-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig_structure.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                            }
+                                },
+                   'unknown' => {
+                                  '201205' => {
+                                              'LinkText' => 'datamart_tig.2012-May.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig.2012-May.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201111' => {
+                                              'LinkText' => 'datamart_tig.2011-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201109' => {
+                                              'LinkText' => 'datamart_tig.2011-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig.2011-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201211' => {
+                                              'LinkText' => 'datamart_tig.2012-Nov.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201201' => {
+                                              'LinkText' => 'datamart_tig.2012-Jan.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201208' => {
+                                              'LinkText' => 'datamart_tig.2012-Aug.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201209' => {
+                                              'LinkText' => 'datamart_tig.2012-Sep.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                            },
+                                  '201207' => {
+                                              'LinkText' => 'datamart_tig.2012-Jul.sql.bz2',
+                                              'Link' => 'detail?name=datamart_tig.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                            }
+                                }
+                 },
+          'ow' => {
+                  'structure' => {
+                                 '201208' => {
+                                             'LinkText' => 'datamart_ow_structure.2012-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow_structure.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201209' => {
+                                             'LinkText' => 'datamart_ow_structure.2012-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow_structure.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201211' => {
+                                             'LinkText' => 'datamart_ow_structure.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow_structure.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               },
+                  'unknown' => {
+                                 '200707' => {
+                                             'LinkText' => 'datamart_ow.2007-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2007-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200804' => {
+                                             'LinkText' => 'datamart_ow.2008-Apr.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2008-Apr.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200904' => {
+                                             'LinkText' => 'datamart_ow.2009-Apr.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2009-Apr.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201211' => {
+                                             'LinkText' => 'datamart_ow.2012-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2012-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201201' => {
+                                             'LinkText' => 'datamart_ow.2012-Jan.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2012-Jan.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200810' => {
+                                             'LinkText' => 'datamart_ow.2008-Oct.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2008-Oct.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201103' => {
+                                             'LinkText' => 'datamart_ow.2011-Mar.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2011-Mar.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201208' => {
+                                             'LinkText' => 'datamart_ow.2012-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2012-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200906' => {
+                                             'LinkText' => 'datamart_ow.2009-Jun.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2009-Jun.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201105' => {
+                                             'LinkText' => 'datamart_ow.2011-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2011-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200905' => {
+                                             'LinkText' => 'datamart_ow.2009-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2009-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200802' => {
+                                             'LinkText' => 'datamart_ow.2008-Feb.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2008-Feb.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201009' => {
+                                             'LinkText' => 'datamart_ow.2010-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2010-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200812' => {
+                                             'LinkText' => 'datamart_ow.2008-Dec.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2008-Dec.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201005' => {
+                                             'LinkText' => 'datamart_ow.2010-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2010-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200911' => {
+                                             'LinkText' => 'datamart_ow.2009-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2009-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200910' => {
+                                             'LinkText' => 'datamart_ow.2009-Oct.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2009-Oct.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201209' => {
+                                             'LinkText' => 'datamart_ow.2012-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2012-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201104' => {
+                                             'LinkText' => 'datamart_ow.2011-Apr.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2011-Apr.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200710' => {
+                                             'LinkText' => 'datamart_ow.2007-Oct.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2007-Oct.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201101' => {
+                                             'LinkText' => 'datamart_ow.2011-Jan.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2011-Jan.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201111' => {
+                                             'LinkText' => 'datamart_ow.2011-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2011-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200912' => {
+                                             'LinkText' => 'datamart_ow.2009-Dec.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2009-Dec.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201207' => {
+                                             'LinkText' => 'datamart_ow.2012-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2012-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200808' => {
+                                             'LinkText' => 'datamart_ow.2008-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2008-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201205' => {
+                                             'LinkText' => 'datamart_ow.2012-May.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2012-May.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200807' => {
+                                             'LinkText' => 'datamart_ow.2008-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2008-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '201109' => {
+                                             'LinkText' => 'datamart_ow.2011-Sep.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2011-Sep.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200907' => {
+                                             'LinkText' => 'datamart_ow.2009-Jul.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2009-Jul.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200806' => {
+                                             'LinkText' => 'datamart_ow.2008-Jun.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2008-Jun.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200712' => {
+                                             'LinkText' => 'datamart_ow.2007-Dec.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2007-Dec.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200708' => {
+                                             'LinkText' => 'datamart_ow.2007-Aug.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2007-Aug.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200711' => {
+                                             'LinkText' => 'datamart_ow.2007-Nov.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2007-Nov.sql.bz2&amp;can=2&amp;q='
+                                           },
+                                 '200801' => {
+                                             'LinkText' => 'datamart_ow.2008-Jan.sql.bz2',
+                                             'Link' => 'detail?name=datamart_ow.2008-Jan.sql.bz2&amp;can=2&amp;q='
+                                           }
+                               }
+                }
+        };
+sv	structure	201211
+Already have latest version of sv
+sv	unknown	201211
+Already have latest version of sv
+fm	project_trove	201205
+Already have latest version of fm
+fm	project_tags	201205
+Already have latest version of fm
+fm	trove_defs	201205
+Already have latest version of fm
+fm	other	201205
+Already have latest version of fm
+fm	projects	201205
+Already have latest version of fm
+lpd	unknown	201209
+Already have latest version of lpd
+fsf	structure	201211
+Already have latest version of fsf
+fsf	unknown	201211
+Already have latest version of fsf
+al	unknown	201111
+Already have latest version of al
+al	structure	201211
+Already have latest version of al
+al	projects	201211
+Already have latest version of al
+lp	unknown	201006
+Already have latest version of lp
+rf	structure	201211
+Already have latest version of rf
+rf	unknown	201211
+Already have latest version of rf
+deb	unknown	200808
+Already have latest version of deb
+sf	datasources	200807
+Already have latest version of sf
+sf	forges	200807
+Already have latest version of sf
+sf	other	200912
+Already have latest version of sf
+sf	stats	200906
+Already have latest version of sf
+top	datasources	200907
+Already have latest version of top
+top	forges	200907
+Already have latest version of top
+fc	project_trove	201211
+Already have latest version of fc
+fc	project_tags	201211
+Already have latest version of fc
+fc	structure	201211
+Already have latest version of fc
+fc	other	201211
+Already have latest version of fc
+fc	projects	201211
+Already have latest version of fc
+gh	unknown	201207
+Already have latest version of gh
+tg	unknown	201103
+Already have latest version of tg
+gc	unknown	201211
+Already have latest version of gc
+gc	structure	201211
+Already have latest version of gc
+tig	structure	201211
+Already have latest version of tig
+tig	unknown	201211
+Already have latest version of tig
+ow	structure	201211
+Already have latest version of ow
+ow	unknown	201211
+Already have latest version of ow
+echo 'create database if not exists `datamart`' | mysql
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_sv_structure.2012-Nov.sql.bz2 | mysql datamart
+ERROR 1050 (42S01) at line 3: Table 'sv_developers' already exists
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fsf_structure.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_al_structure.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_rf_structure.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fc_structure.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_gc_structure.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_tig_structure.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_ow_structure.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_sv.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fm_project_trove.2012-May.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fm_project_tags.2012-May.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fm_trove_defs.2012-May.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fm_other.2012-May.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fm_projects.2012-May.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_lpd.2012-Sep.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fsf.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_al.2011-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_al_projects.2012-Nov.sql.bz2 | mysql datamart
+ERROR 1136 (21S01) at line 1: Column count doesn't match value count at row 1
+
+bzcat: I/O or other error, bailing out.  Possible reason follows.
+bzcat: Broken pipe
+	Input file = /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_al_projects.2012-Nov.sql.bz2, output file = (stdout)
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_lp.2010-Jun.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_rf.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_deb.2008-Aug.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_sf_datasources.2008-Jul.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_sf_forges.2008-Jul.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_sf_other.2009-Dec.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_sf_stats.2009-Jun.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_top_datasources.2009-Jul.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_top_forges.2009-Jul.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fc_project_trove.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fc_project_tags.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fc_other.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_fc_projects.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_gh.2012-Jul.sql.bz2 | mysql datamart
+ERROR 1146 (42S02) at line 23: Table 'datamart.gh_projects' doesn't exist
+
+bzcat: I/O or other error, bailing out.  Possible reason follows.
+bzcat: Broken pipe
+	Input file = /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_gh.2012-Jul.sql.bz2, output file = (stdout)
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_tg.2011-Mar.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_gc.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_tig.2012-Nov.sql.bz2 | mysql datamart
+bzcat /var/lib/myfrdcsa/codebases/internal/cso/data/flossmole/datamarts/datamart_ow.2012-Nov.sql.bz2 | mysql datamart
+andrewdo@ai:/var/lib/myfrdcsa/codebases/internal/cso$ 

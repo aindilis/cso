@@ -1,0 +1,4 @@
+flora_symbol(related,2,'_@',26,4,predicate_symbol,nontransactional_symbol,'comprehensive-software-ontology.flr').
+flora_symbol('/var/lib/myfrdcsa/codebases/internal/cso/data-git/frdcsa-projects.P',0,'_@',23,2,function_symbol,nontransactional_symbol,'comprehensive-software-ontology.flr').
+flora_symbol(lists,0,'_@',16,1,function_symbol,nontransactional_symbol,'comprehensive-software-ontology.flr').
+flora_symbol('_load',1,'_@',14,1,predicate_symbol,nontransactional_symbol,'comprehensive-software-ontology.flr').

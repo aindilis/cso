@@ -1,0 +1,6 @@
+#include "flrheader.flh"
+
+'_$_$_flora''prop_descriptor'(2,'comprehensive-software-ontology.flr',FLORA_THIS_MODULE_NAME,type,rule,'_$_$_flora''descr_vars').
+'_$_$_flora''tag_descriptor'(2,'comprehensive-software-ontology.flr',FLORA_THIS_MODULE_NAME,2,'_$_$_flora''descr_vars').
+'_$_$_flora''rule_enabled'(2,'comprehensive-software-ontology.flr',FLORA_THIS_MODULE_NAME).
+'_$_$_flora''bool_descriptor'(2,'comprehensive-software-ontology.flr',FLORA_THIS_MODULE_NAME,strict,'_$_$_flora''descr_vars').

@@ -1,0 +1,6 @@
+# Every couple days update the Sorcerer apt-cache 
+* * */1 * *	jasayne	/var/lib/myfrdcsa/codebases/internal/sorcerer/sorcerer -U AptCache
+
+
+
+

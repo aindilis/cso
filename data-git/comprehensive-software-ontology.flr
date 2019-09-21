@@ -1,0 +1,8 @@
+?- _load('lists').
+?- _load('/var/lib/myfrdcsa/codebases/internal/cso/data-git/frdcsa-projects.P').
+
+related(?X,?Y) :-
+	related(?X,?Y)@_prolog.
+
+// load all the systems of the frdcsa and assert they are frdcsa systems.
+// FIXME

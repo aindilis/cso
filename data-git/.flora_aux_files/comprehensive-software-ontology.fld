@@ -1,0 +1,4 @@
+#include "flrheader.flh"
+#include "flr_fld_standardtypes.flh"
+
+FLORA_THIS_WORKSPACE(tblflapply)(related,__fldnewvar1,__fldnewvar2,__fldnewvar3).

@@ -1,0 +1,328 @@
+<system>
+  <title>
+    CSO
+  </title>
+  <acronym-expansion>
+    Comprehensive Software Ontology
+  </acronym-expansion>
+  <short-description>
+    Comprehensive Software Ontology
+  </short-description>
+  <medium-description>
+    The result of spidering and information extraction in the domain
+    of software applications.  A subsystem of RADAR that integrates
+    online software metadata sites.  Defines a metadata standard for
+    the MyFRDCSA and provides search functions of metadata
+    information.  Eventually these capabilities will join with others
+    such as spidering and sophisticated focused web searching and
+    classification techniques for actual web-mining of software and
+    issuing automatic retrieval tactics.  It handles reputation
+    management of online sources.
+  </medium-description>
+  <long-description>
+    <p>
+      CSO implements the comprehensive software ontology system.  It
+      uses spider to gather software systems, and interfaces with
+      RADAR and Architect.  It provides question answering services,
+      particularly with respect to interapplication relations, and
+      system capabilities.  It tracks many key features such as
+      licensing and, along with MyFRDCSA, implements an archive of
+      free software to enforce license violations.  Another feature it
+      implements is extraction of capabilities from the systems.
+    </p>
+    <p>
+      This is  a program  to maintain a  list of possible  and checked
+      apt-get sources.
+    </p>
+    <p>
+      Can  use apt-get.org,  sources found  on the  internet, previous
+      sources, and runs frequency checks on these sources.
+    </p>
+    <p>
+      Also  used  for  tracking  the  packages  available  from  these
+      sources,  and, if  necessary,  for handling  the archiving  with
+      myfrdcsa.
+    </p>
+    <p>
+      Track which sources are bad.
+    </p>
+    <p>
+      CSO uses data from the "FLOSSmole Project (2004-2005) SourceForge
+      Available at: http://ossmole.sourceforge.net".
+    </p>
+    <pre>
+CSO, -a trust
+Searching sources...
+select * from systems where  (ID like '%trust%' or Name like '%trust%' or ShortDesc like '%trust%' or LongDesc like '%trust%');
+AptCache    : advi                           - an active DVI previewer and presenter                       
+AptCache    : anon-proxy                     - Proxy to surf the web anonymously                           
+AptCache    : burgerspace                    - Avoid evil foodstuffs and make burgers                      
+AptCache    : cl-tclink                      - Common Lisp bindings to the TrustCommerce transaction system
+AptCache    : compartment                    - Confine services in a limited environment                   
+AptCache    : courier-ssl                    - Courier Mail Server - SSL/TLS Support                       
+AptCache    : gnunet                         - Secure, trust-based peer-to-peer framework                  
+AptCache    : hula                           - integrated mail &amp; calendar system with simple interface     
+AptCache    : ircmarkers                     - place markers on maps at given coordinates                  
+AptCache    : kerberos4kth-clients           - Clients for Kerberos4 From KTH                              
+AptCache    : kerberos4kth-clients-x         - X11 files for Kerberos4 From KTH                            
+AptCache    : kerberos4kth-dev               - Development files for Kerberos4 From KTH                    
+AptCache    : kerberos4kth-docs              - Documentation for Kerberos 4 from KTH                       
+AptCache    : kerberos4kth-kdc               - KDC for Kerberos4 from KTH                                  
+AptCache    : kerberos4kth-kip               - Kerberos IP Tunnel software                                 
+AptCache    : kerberos4kth-servers           - Servers for Kerberos4 From KTH                              
+AptCache    : kerberos4kth-servers-x         - X11 files for Kerberos4 From KTH                            
+AptCache    : kerberos4kth-services          - Dummy library package for Kerberos4 From KTH                
+AptCache    : kerberos4kth-user              - Dummy package for Kerberos4 From KTH                        
+AptCache    : kerberos4kth-x11               - Dummy package for Kerberos4 From KTH                        
+AptCache    : kerberos4kth1                  - Dummy library package for Kerberos4 From KTH                
+AptCache    : keyanalyze                     - OpenPGP key analysis                                        
+AptCache    : keynote                        - Decentralized Trust-Management system                       
+AptCache    : krb5-admin-server              - MIT Kerberos master server (kadmind)                        
+AptCache    : krb5-clients                   - Secure replacements for ftp, telnet and rsh using MIT Kerberos
+AptCache    : krb5-doc                       - Documentation for krb5                                      
+AptCache    : krb5-ftpd                      - Secure FTP server supporting MIT Kerberos                   
+AptCache    : krb5-kdc                       - MIT Kerberos key server (KDC)                               
+AptCache    : krb5-rsh-server                - Secure replacements for rshd and rlogind using MIT Kerberos 
+AptCache    : krb5-telnetd                   - Secure telnet server supporting MIT Kerberos                
+AptCache    : krb5-user                      - Basic programs to authenticate using MIT Kerberos           
+AptCache    : libalias-perl                  - Access perl variables through aliases                       
+AptCache    : libbusiness-onlinepayment-tcli - TrustCommerce backend for Business::OnlinePayment           
+AptCache    : libkadm1-kerberos4kth          - Kadm Libraries for Kerberos4 From KTH                       
+AptCache    : libkadm55                      - MIT Kerberos administration runtime libraries               
+AptCache    : libkafs0-kerberos4kth          - Afs Libraries for Kerberos4 From KTH                        
+AptCache    : libkdb-1-kerberos4kth          - Kerberos database libraries for Kerberos4 From KTH          
+AptCache    : libkeynote-dev                 - Decentralized Trust-Management system, development files    
+AptCache    : libkeynote0                    - Decentralized Trust-Management system, shared library       
+AptCache    : libkrb-1-kerberos4kth          - Kerberos Libraries for Kerberos4 From KTH                   
+AptCache    : libkrb5-dev                    - Headers and development libraries for MIT Kerberos          
+AptCache    : libkrb53                       - MIT Kerberos runtime libraries                              
+AptCache    : libkthacl1-kerberos4kth        - ACL Libraries for Kerberos4 From KTH                        
+AptCache    : libnet-tclink-perl             - Perl interface to the TrustCommerce payment gateway         
+AptCache    : libotp0-kerberos4kth           - Otp Libraries for Kerberos4 From KTH                        
+AptCache    : libroken16-kerberos4kth        - Roken Libraries for Kerberos4 From KTH                      
+AptCache    : libsl0-kerberos4kth            - Sl Libraries for Kerberos4 From KTH                         
+AptCache    : libss0-kerberos4kth            - SS Libraries for Kerberos4 From KTH                         
+AptCache    : lxdoom-svga                    - svgalib binary for lxdoom                                   
+AptCache    : madbomber                      - A Kaboom! clone                                             
+AptCache    : madbomber-data                 - Datafiles for madbomber                                     
+AptCache    : minimalist                     - a MINImalist MAiling LIST manager                           
+AptCache    : monotone                       - A distributed version (revision) control system             
+AptCache    : mountpy                        - script for quick mounting of removable devices              
+AptCache    : openssh-client                 - Secure shell client, an rlogin/rsh/rcp replacement          
+AptCache    : openssh-server                 - Secure shell server, an rshd replacement                    
+AptCache    : openswan                       - IPSEC utilities for Openswan                                
+AptCache    : pawserv                        - Cernlib's distributed PAW and file transfer servers         
+AptCache    : php4-kadm5                     - An extension to manage kerberos admin information           
+AptCache    : php4-tclink                    - TrustCommerce TCLink module for php4                        
+AptCache    : python-tclink                  - TrustCommerce credit card processing for Python [dummy package]
+AptCache    : python2.1-tclink               - TrustCommerce credit card processing for Python 2.1.x       
+AptCache    : python2.2-tclink               - TrustCommerce credit card processing for Python 2.2.x       
+AptCache    : python2.3-tclink               - TrustCommerce credit card processing for Python 2.3.x       
+AptCache    : razor                          - spam-catcher using a collaborative filtering network        
+AptCache    : scponly                        - Restricts the commands available to scp- and sftp-users     
+AptCache    : ssh-krb5                       - Secure rlogin/rsh/rcp replacement (OpenSSH with Kerberos)   
+AptCache    : timps                          - Transparent Instant Messaging Proxy Server                  
+AptCache    : trustedqsl                     - QSL log signing for the Logbook of the World (LoTW)         
+AptCache    : userv                          - `user services' - program call across trust boundaries      
+Freshmeat   : adamantix                      - A highly secure Linux platform.                             
+Freshmeat   : aegisvm                        - A lightweight, secure VM with pluggable verification modules.
+Freshmeat   : againsttcpa                    - A theme in opposition to TCPA.                              
+Freshmeat   : arnie                          - A simple system for incremental backups.                    
+Freshmeat   : articlemanager                 - Makes it easy for non-technical users to update Website articles.
+Freshmeat   : askemos                        - An intrustion resistant and incorruptible operating system. 
+Freshmeat   : autopkg_pl                     - A tool that generates Slackware packages from source tarballs, RPMs, and debs.
+Freshmeat   : bluecmd                        - Executes a command if a bluetooth device can be found or not.
+Freshmeat   : circle                         - Decentralized file sharing, instant messaging, and news.    
+Freshmeat   : covalentssl                    - 128-bit encryption for the Apache Web server.               
+Freshmeat   : dc3500                         - A Trust/Mustek DC-3500 console driver.                      
+Freshmeat   : dlp                            - A project to create a distributed library of books and videos.
+Freshmeat   : dnasystem                      - An open, flexible, realtime, network protocol analyzer.     
+Freshmeat   : dnbackup                       - Distributed network backup.                                 
+Freshmeat   : epicssl-irc                    - SSL support for the EPIC IRC client.                        
+Freshmeat   : fwup                           - Linux-2.2 ipchains firewall/NAPT/NAT administration.        
+Freshmeat   : getstatd                       - Statistics Daemon for Linux Systems                         
+Freshmeat   : gnukeyring                     - Store secret information securely on PalmOS handhelds.      
+Freshmeat   : hardscan                       - A brute-force local netstat replacement.                    
+Freshmeat   : horatio                        - A firewall authentication tool.                             
+Freshmeat   : iptablesscript                 - An IPtables firewalling script.                             
+Freshmeat   : ircmarkers                     - A program to place markers on maps at given coordinates.    
+Freshmeat   : itrustgpg                      - A tool to draw graphs of trust relationships in GPG/PGP keys.
+Freshmeat   : jchains                        - A Java Security Manager framework to record the permissions of applications.
+Freshmeat   : keynote                        - Provides a simple notation for specifying local security policies etc.
+Freshmeat   : keystory                       - An OpenPGP email signature history reporter.                
+Freshmeat   : kqlives                        - An old school RPG.                                          
+Freshmeat   : linuxmasqueraderlogpatch       - A patch that makes Linux 2.2 log all outgoing TCP masqueraded connections.
+Freshmeat   : linuxtrustees                  - An advanced file permission system for Linux                
+Freshmeat   : loaf                           - A way to share your address book without abandoning your privacy.
+Freshmeat   : mailscanner                    - An email virus scanner, vulnerability protector, and spam handler.
+Freshmeat   : matrixpn                       - A news broadcasting system with P2P.                        
+Freshmeat   : mojonation                     - A distributed filesystem with market-based resource allocation.
+Freshmeat   : mops_model_checking            - A program that checks temporal safety properties in C code. 
+Freshmeat   : murk                           - An rsync-friendly encryption tool.                          
+Freshmeat   : nacs                           - Provides untrusted computers access to your TCP/IP-based (v4) LAN/WAN.
+Freshmeat   : nrobot                         - An autonomous robot fighting game.                          
+Freshmeat   : nsbd                           - Not-So-Bad Distribution (automated free software distribution)
+Freshmeat   : parp                           - A Perl-based Anti-spam capable Replacement for Procmail.    
+Freshmeat   : pgpcodesigner                  - A creator of digitally signed Java code archives.           
+Freshmeat   : phptab                         - A simple Web application for tracking debt for a group of people.
+Freshmeat   : piss                           - A security system.                                          
+Freshmeat   : poco                           - A content management system for small-scale Web sites.      
+Freshmeat   : portecle                       - A GUI version of the command line keytool provided with the Java SDK.
+Freshmeat   : procwatch                      - A process creation monitor.                                 
+Freshmeat   : pspa                           - Network pseudo ACLs for Linux.                              
+Freshmeat   : ptptl                          - A security toolkit tailored to peer-to-peer applications.   
+Freshmeat   : pubcookie                      - A Web single sign-on package.                               
+Freshmeat   : rsync-backup                   - A program which automates secure encrypted backups using rsync and ssh.
+Freshmeat   : sbox-dtc                       - A CGI wrapper script for chrooted environment for hosting.  
+Freshmeat   : scs                            - A tool to help secure file sharing on insecure media.       
+Freshmeat   : securesyslog                   - Cryptographically secure system logging tool for UNIXsystems
+Freshmeat   : setov511                       - A tool to set up and configure ov511 chipset based Web cams.
+Freshmeat   : sfs                            - A secure, global network file system with decentralized control.
+Freshmeat   : sonix                          - A driver for Sonix SN9C102-based Webcam devices.            
+Freshmeat   : spamresponder                  - A simple and radical spam filter using DNS validation and challenge/response.
+Freshmeat   : ssh-keyserv                    - A simple key-distribution server for SSH.                   
+Freshmeat   : stealth                        - A stealthy file integrity checker.                          
+Freshmeat   : swup                           - The secure software updater.                                
+Freshmeat   : tclink                         - A client for running credit card transactions over TCP/IP.  
+Freshmeat   : texttemplate                   - Embed Perl code into text and HTML files.                   
+Freshmeat   : tinysofa                       - A secure server targeted enterprise grade operating system. 
+Freshmeat   : tl-convert                     - A String and Object converter.                              
+Freshmeat   : tl-launcher                    - A Java application launcher.                                
+Freshmeat   : tmda                           - A Python-based SPAM reduction system.                       
+Freshmeat   : tqsl                           - Tools for digitally signing Amateur Radio QSO (log) records 
+Freshmeat   : trousers                       - A Trusted Computing Software Stack (TSS).                   
+Freshmeat   : trusthnone                     - Theme Name      : Trusth No One. Author          : Ruben Perez  Description
+Freshmeat   : trustkey                       - A project to make very secure PDA software that links to your PC.
+Freshmeat   : trustudio                      - An IDE for PHP and Python built on the Eclipse platform.    
+Freshmeat   : tsl                            - A compact, server-targeted Linux distribution.              
+Freshmeat   : tupd                           - A daemon that reports uptime statistics via HTTP.           
+Freshmeat   : twhttpd                        - A secure HTTP proxy.                                        
+Freshmeat   : userv                          - Security boundary tool                                      
+Freshmeat   : valtz                          - A tool to validate tinydns-data (djbdns) zonefiles.         
+Freshmeat   : viruskiller                    - A shoot 'em up that uses your file system.                  
+Freshmeat   : w2u                            - A tool for fixing badly-formatted file trees from Windows systems.
+Freshmeat   : wbmtrustees                    - A Webmin module for Linux Trustees ACLs.                    
+Freshmeat   : whoson                         - WHO iS ONline.                                              
+Freshmeat   : wot                            - Diagraph generation from an OpenPGP Web of trust.           
+Freshmeat   : wotsap                         - A tool for graphing the OpenPGP Web of Trust.               
+Freshmeat   : wumpus                         - A set of scripts to mirror a multi-user Web site.           
+Freshmeat   : xotmid                         - Content management, Networked Profile and boards            
+Freshmeat   : yapak                          - A restartable multi-file piping tool with on-the-fly encryption.
+LSM         : Linux System Administrators' G - An ALPHA version ("trust this and die") of the Linux        
+LSM         : autologin-0.00                 - autologin consists of 2 modified packages (login and rlogind)
+LSM         : cruft - a replacement for the  - Linux and other free UNIX systems often ship with the 'crypt'
+Sourceforge : accgenx                        - AccGenX is a full-featured Accounting project for  Linux. Using PostgreSQL as its base, it is fully 
+Sourceforge : admctrl                        - AUTHd: Admission control daemon is a system aiming to provide authentication and authorisation servi
+Sourceforge : aiakos                         - Aiakos is a suite of software components that together provide a collaborative Single-Signon System 
+Sourceforge : antitrust                      - Antitrust - workplace monitoring software appliance         
+Sourceforge : avocado                        - Avocado is a Java and PHP port of the trust metrics algorithm behind advogato.org, with a new data m
+Sourceforge : bsdaemon                       - BSD-Like Unix System with Security focus.  This uses TrustedBSD project, but in OpenBSD platform.
+Sourceforge : bulletproof                    - This program allows you to establish cryptographically secure and decentraliced conversations over u
+Sourceforge : burnbabyburn                   - A Linux platform game loosly related to the current Microsoft Antitrust Court Case.  After the appea
+Sourceforge : cl4others                      - To create an implementation of Novell ClientTrust for Linux and Mac OS-X
+Sourceforge : climbatree                     - A Common Lisp version of advogato&amp;#039;s trust metric.      
+Sourceforge : csc                            - Designed for universities, this web application helps a community to become more self-sustaining, al
+Sourceforge : darwinproject                  - Darwin Project is a new based-experience RTS game in 3D. Developped by a French team in Paris, this 
+Sourceforge : debian-trusted                 - debian-trusted is a hardened linux-distribution based on debian. all packages will be compiled with 
+Sourceforge : dhvani                         - dhvani - A Text-to-Speech System for Indian Languages developed by the Simputer Trust developers and
+Sourceforge : emlvoting                      - Public open source project for OASIS Election Markup Language (EML) voting solutions with trusted lo
+Sourceforge : emscan                         - A virus scanner for VPOP3 - a Windows mail server which includes a hook for an &amp;#039;external router
+Sourceforge : esig                           - This is an open-source implementation of Elegitimizer.com&amp;#039;s &amp;quot;elegitisigner&amp;quot; specifica
+Sourceforge : fanrep                         - Fanrep is a community reputation management and trust metric system that is intended to track user p
+Sourceforge : firejail                       - A firewall Jail to protect corporate networks from hacking within.  This system provides a Jail in w
+Sourceforge : fling                          - Fling will be a small suite of network protocols that perform functions analogous to TCP, UDP, and D
+Sourceforge : fluidos                        - Fluid is built from scratch with security, stability, scalability, modularity, effeciency of use and
+Sourceforge : freedomshope                   - This will be an MMORP game, designed to utilize open source as a means to both allow players to coll
+Sourceforge : freepki                        - The FreePKI project aims to create practical, interoperable &amp;amp; free code and services for Certifi
+Sourceforge : friendshare                    - FriendShare is a private and anonymous &amp;quot;friend to friend&amp;quot; P2P based on Napshare. Only peop
+Sourceforge : fusetrustees                   - FUSETrustees is a FUSE-based (http://fuse.sourceforge.net/) implementation of the Linux Trustees mod
+Sourceforge : galet                          - Galet is a peer-to-peer program aiming to provide easy to setup, secure communications between the c
+Sourceforge : gapshap                        - A simple to set up Chat server/client suite for small groups on a trusted network.
+Sourceforge : gpgman                         - GPGMan is a small collection of scripts written in different programming-languages helping you to ma
+Sourceforge : greatwall                      - A very simple Linux firewall scripts designed for home users/small office users.  Requires Linux ker
+Sourceforge : gsqlite                        - gSqlite is an open-source graphic frontend for SQLite, and is written in JAVA. gSqlite maintains met
+Sourceforge : hearsay                        - Hearsay is a simple p2p IM framework for trust and reputation tracking.  It is written in Java and c
+Sourceforge : idcheck                        - Cookie based web authentication and single sign on system for largish intranets under a single domai
+Sourceforge : idel                           - Idel is a lightweight virtual machine for safely running untrusted code.  One currently-working appl
+Sourceforge : impostor                       - A web proxy that provides Single Sign-On (SSO) into websites in a manner that protects your password
+Sourceforge : j4p5                           - A JavaScript interpreter written in PHP 5, that allows to run untrusted scripts in a sandbox on your
+Sourceforge : javakeymanager                 - Java-based PGP keyking manager with SSL web-of-trust authentication Java library
+Sourceforge : jchains                        - jChains is a custom Java Security Manager framework that records the permissions needed for an appli
+Sourceforge : jhttp2                         - jHTTPp2 is a very small, java based HTTP/1.1 proxy server. It offers following features: high-perfor
+Sourceforge : joy-xmms                       - Yet another plugin to allow you to control XMMS.  This one lets you use a joystick/joypad.  It will 
+Sourceforge : junto                          - Junto is a Java-based peer-to-peer framework which allows using, simulating, and testing different t
+Sourceforge : keystory                       - keystory, by analyzing email history, gathers data on the usage of OpenPGP signatures, and provides 
+Sourceforge : larp-eventmngr                 - A databse to assist logistics and bookings, for an event based in the Lorien Trust&amp;#039;s Live Actio
+Sourceforge : ldapauth                       - The purpose of this project is to provide an open-source implementation of an application authentica
+Sourceforge : ldapca                         - ldapca is a online Open Certificate Authority that enables you to obtain email certificates and serv
+Sourceforge : mies                           - The WYMIWYG meta information exchange system (mies) allows you to add and retrieve comments, notes, 
+Sourceforge : move2ingres                    - Migration tools for moving database schema, database data and application logic from a variety of re
+Sourceforge : murk                           - Rsync friendly encryption that runs on the UNIX command line. Encrypt a file and backup the changes 
+Sourceforge : myproxygui                     - MyProxyGUI is a new Java Applet/Standalone solution to remotely delegate a X.509 Proxy Certificate o
+Sourceforge : navl                           - A strictly Non Anonymous Voting tooL for online polls and decision making for online and offline com
+Sourceforge : ncrypto                        - Fully managed classes that wraps the common primitives of the .NET Framework Cryptography and DPAPI 
+Sourceforge : newsmanplus                    - News Management Plus is an advanced and news posting and management system.  It comes with sub-admin
+Sourceforge : newvision                      - The goal of the New Vision Bankruptcy package is to collect and retain debtor information, produce b
+Sourceforge : ntpauditor                     - Linux-Based application that make periodic pools to NTP servers, objectifying the definition of what
+Sourceforge : onlinedp                       - An online form of diplomacy that emphasizes the social nature of the game through treaties, orgainza
+Sourceforge : openbrr                        - OpenBRR is an initiative to create an open and standard framework for software assessment process. W
+Sourceforge : opensst                        - OpenSST (Open Simple Secure Transaction) is a project to create a simple security protocol for makin
+Sourceforge : opentss                        - The devleopment of an opensource Trusted Computing Group TSS (Trusted Computing Software Stack) writ
+Sourceforge : orgster                        - Trusted peer to peer client.  Supports a trusted peer group context for identity, rating, categoriza
+Sourceforge : peeragent                      - Peer Agent is a system that enable a group of users to carry out automated complex interaction via e
+Sourceforge : peertrust                      - The PeerTrust system uses policies to describe trust and security requirements. Such policies are a 
+Sourceforge : phim                           - Phim (standing for &amp;quot;Phi Messenger&amp;quot;) is an(other) IM protocol, which is designed to avoid u
+Sourceforge : php-autobill                   - Independent Contractor\\\\\\\&amp;#039;s automatic billing system.  via TrustCommerce Merchant Gateway.
+Sourceforge : php-website                    - A website for an association which promotes indian talent and is also a charitable trust registered 
+Sourceforge : phpgeoorder                    - phpGeoOrder is an php ordering system for Geotrust Quick Order API
+Sourceforge : pluggedout-cms                 - &amp;quot;PluggedOut CMS&amp;quot; - flexible and powerful content management system for PHP/MySQL based sys
+Sourceforge : pmx                            - PMX is hybridly distributed chat &amp;amp; messaging server program. It will allow sending messages, rec
+Sourceforge : primrose                       - A trust-based file sharing system.                          
+Sourceforge : ptptl                          - The Peer-to-Peer Trusted Library is a software security toolkit tailored for the creation of P2P app
+Sourceforge : pykeylogger                    - A simple keylogger written in python. It is primarily designed for personal backup purposes, rather 
+Sourceforge : pymmetry                       - Python Trust Metrics.  Implementation of Ford-Faulkersson Maximum Flow algorithm and mod_virgule&amp;#03
+Sourceforge : qare                           - An Experimental Platform for Secure Peer Services, QARE uses a decentralized trust model, a Public K
+Sourceforge : qbounce                        - A multi-user IRC bouncer with IPv6 &amp;amp; SSL support for Unix &amp;amp; Windows. Also included is a cust
+Sourceforge : ripple                         - P2P decentralized payment through mutual credit trust networks
+Sourceforge : rtables                        - rTables was written primarally for security reasons and it&amp;#039;s main purpose is firewalling. The t
+Sourceforge : rute                           - The reliable unix trust environment intends to build a framework for unix services. It allow&amp;#039;s 
+Sourceforge : samp                           - The NextJ Synchronous-Asynchronous Messaging Protocol (SAMP) Server is a secure, reliable and scalab
+Sourceforge : securekey                      - Secure Key is an uncrackable security mechanism that minimizes trust given to stored keys, and obfus
+Sourceforge : shks                           - ssh host keyserver: extends the pgp web of trust to ssh host keys.
+Sourceforge : smoketorrent                   - SmokeTorrent enhances the original bittorrent concept by providing distributed peer to peer sharing,
+Sourceforge : softpot                        - SoftwarePot is an encapsulated transferable file system for secure software circulation.  SoftwarePo
+Sourceforge : sosume                         - A P2P application to share files between known individuals. A trusted party can add, edit, delete th
+Sourceforge : sure                           - SURE is a Secure Universal Reputation Environment. It is intended to automate reputation and trust m
+Sourceforge : swingmapper                    - SwingMapper allows to simplify the construction of forms by mapping Swing component to POJO properti
+Sourceforge : taint                          - taint is an implementation of the WASTE p2p client that focuses on cross platform capability with a 
+Sourceforge : tmtagger                       - Trust Me Tagger is a simple C++.net utility for Windows.  It rewrites ID3 information in MP3 files b
+Sourceforge : tot                            - TOT (&amp;quot;tree of trust&amp;quot;) is a simple distributed database with a hierarchical trust system, w
+Sourceforge : tp2p                           - Effort to build a trustworthy, reliable P2P system/protocol for mission-critical data and transactio
+Sourceforge : trost                          - The TROST Project creates Templates for Raising Open-System Trustworthiness.  The templates comprise
+Sourceforge : trust                          - &amp;quot;A cloud does not know why it moves in just such a direction and at such a speed. It feels an i
+Sourceforge : trust-forum                    - A system of public and private web forums, to run with global login in network, that aims to replace
+Sourceforge : trustchains                    - This is a more scalable version of trust circles, each user (A) is able to rate others. For a user t
+Sourceforge : trustcom                       - NULL                                                        
+Sourceforge : trustcrm                       - A CRM module for DotNetNuke.                                
+Sourceforge : trusteddarwin                  - NULL                                                        
+Sourceforge : trustedpickle                  - TrustedPickle is a Python module which lets you create and sign your data files. By using public/pri
+Sourceforge : trustedpypg                    - Trusted Python server side packages on Postgresql           
+Sourceforge : trustees                       - Trustees is a recursive ACL scheme for the Linux 2.6 kernel&amp;#039;s Linux Security Module(LSM) framew
+Sourceforge : trustidportal                  - Portal^Trust                                                
+Sourceforge : trustmaster                    - TrustMaster is a financial application designed to manage trust deferrable expenses. TrustMaster is 
+Sourceforge : trustnet                       - TrustNet is a way to share trust applied to firewalls. Each port have a trust level(TL) required. En
+Sourceforge : trustsmart                     - A testbed for analysis the impacts of relationship identification on the evaluation of agents trustw
+Sourceforge : trustudio                      - Set of plugins based on Eclipse and xored::TruStudio IDE for PHP, Python, and ECMAScript development
+Sourceforge : trustusbta                     - Linux driver for Trust ISDN USB terminal adapter            
+Sourceforge : trustykeychain                 - Trusty Keychain is a Java-based password manager program.   
+Sourceforge : tur                            - A place where Archlinux\&amp;#039;s Trusted Users can manage their own package repositories.
+Sourceforge : ubimarks                       - Annotea Ubimarks is an application of Annotea shared bookmarks in Mozilla. It helps users to easily 
+Sourceforge : unityca                        - UnityCA is a Certificate Authority &amp;quot;front end&amp;quot; based on the Community-Oriented CA (COCA) m
+Sourceforge : vitello                        - A private (invitation only) network client and server to provide file-sharing and communications.  Y
+Sourceforge : wowse                          - Wide Open Windows Signed Execute is a mechanism by which an unprivileged user may execute a cryptogr
+Sourceforge : xmltrust                       - XML Trust is a set of Java APIs for performing XML Signature, XML Encryption and other XML security 
+Sourceforge : xotmid                         - Xotmid is a web-content system: that sports a Trusted Network which allows multiple sites to share b
+Sourceforge : xsupervisor                    - The X Supervisor Extension is a patch for the popular XFree86 X server to make X11 forwarding with o
+    </pre>
+  </long-description>
+</system>

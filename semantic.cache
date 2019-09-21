@@ -1,0 +1,15 @@
+;; Object cso/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "cso/"
+  :tables (list 
+   (semanticdb-table "Makefile"
+    :major-mode 'makefile-mode
+    :tags '(("SYSNAME" variable (:default-value ("cso")) nil [21 33]) ("configure" function (:arguments ("configure-stamp")) nil [34 62]) ("configure-stamp" function nil nil [62 103]) ("build" function (:arguments ("build-stamp")) nil [103 123]) ("build-stamp" function (:arguments ("configure-stamp")) nil [123 173]) ("clean" function nil nil [173 213]) ("install" function nil nil [213 360]))
+    :file "Makefile"
+    :pointmax 398
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0beta3"
+  :semanticdb-version "2.0beta3"
+  )

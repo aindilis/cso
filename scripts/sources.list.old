@@ -1,0 +1,1045 @@
+deb ftp://angrenost.org/ ./
+deb ftp://boisson.homeip.net/XFree4.3/ ./
+deb ftp://boisson.homeip.net/sarge ./
+deb ftp://boisson.homeip.net/woody ./
+deb ftp://cipherfunk.org/pub/packages/ubuntu/ breezy main
+deb ftp://cipherfunk.org/pub/packages/ubuntu/ hoary main
+deb ftp://cipherfunk.org/pub/packages/ubuntu/ warty main
+deb ftp://debian.marlow.dk/ woody dell
+deb ftp://fisher.ciencias.uniovi.es/debian unstable main
+deb ftp://ftp.bbsoft4.org/pub/Debian/Contribs/Woody/ ./
+deb ftp://ftp.berlios.de/pub/egachine/mingwcross sarge main
+deb ftp://ftp.berlios.de/pub/gift-fasttrack stable main
+deb ftp://ftp.berlios.de/pub/gift-fasttrack unstable main
+deb ftp://ftp.berlios.de/pub/kazit/debs ./
+deb ftp://ftp.berlios.de/pub/qrc debian/sarge/
+deb ftp://ftp.duckcorp.org/myserver/ ./
+deb ftp://ftp.freenet.de/pub/debian-openoffice/ woody main contrib
+deb ftp://ftp.gplhost.com/debian stable main
+deb ftp://ftp.inria.fr/INRIA/Projects/cristal/geneweb/Linux/DEBIAN/ woody geneweb
+deb ftp://ftp.internatif.org/pub/debian/UNOFFICIAL/woody/ ./
+deb ftp://ftp.kvirc.de/pub/kvirc/snapshots/debian ./
+deb ftp://ftp.las.ic.unicamp.br/pub/debian-marillat stable main
+deb ftp://ftp.las.ic.unicamp.br/pub/debian-marillat testing main
+deb ftp://ftp.las.ic.unicamp.br/pub/debian-marillat unstable main
+deb ftp://ftp.linbox.com/pub/lbs/backuppc/deb/ woody/
+deb ftp://ftp.mowgli.ch/pub/debian sarge unofficial
+deb ftp://ftp.mowgli.ch/pub/debian sid unofficial
+deb ftp://ftp.nerim.net/debian-marillat/ etch main
+deb ftp://ftp.nerim.net/debian-marillat/ sarge main
+deb ftp://ftp.nerim.net/debian-marillat/ sid main
+deb ftp://ftp.netizenweb.com/pub/debian-nw testing main non-free
+deb ftp://ftp.oronetes.net/debian main/
+deb ftp://ftp.tcweb.org/pub/debian unstable main
+deb ftp://ftp.uni-marburg.de/linux/debian sarge openldap-2.2.15
+deb ftp://ftp.uni-marburg.de/linux/debian sarge openldap-2.2.17
+deb ftp://ftp.uni-marburg.de/linux/debian sarge openldap-2.2.23
+deb ftp://instantafs.cbs.mpg.de/instantafs/sarge/ /
+deb ftp://instantafs.cbs.mpg.de/instantafs/sid/ /
+deb ftp://instantafs.cbs.mpg.de/instantafs/woody/ /
+deb ftp://metalab.unc.edu/pub/linux/devel/lang/java/blackdown.org/debian sid main non-free
+deb ftp://progn.org/debian unstable main
+deb ftp://silcnet.org/silc/client/deb ./
+deb ftp://silcnet.org/silc/server/deb ./
+deb ftp://www.markus-raab.org/apps ./
+deb ftp://www.markus-raab.org/eigene ./
+deb http://3demi.net/debian debs/./
+deb http://afavant.elte.hu/~wferi/debian woody main
+deb http://agrogeomatic.educagri.fr/debian stable main
+deb http://alexandre.beneteau.free.fr/debian unstable main
+deb http://anakonda.altervista.org/debian packages/
+deb http://antti-juhani.kaijanaho.info/dctrl-tools-experimental/ ./
+deb http://apt.bxlug.be/ experimental-sarge/
+deb http://apt.bxlug.be/sarge/ main/
+deb http://apt.bxlug.be/sarge/ not-debian/
+deb http://apt.heanet.ie/ heanet contrib
+deb http://apt.igalia.com sid/
+deb http://apt.igalia.com woody/
+deb http://apt.logreport.org/pub/debian local contrib
+deb http://apt.opensides.org/ testing main contrib non-free
+deb http://apt.ox.no/ unstable/
+deb http://apt.pgpackages.org/debian sarge main contrib non-free
+deb http://apt.pgpackages.org/debian sid main contrib non-free
+deb http://apt.pgpackages.org/debian woody main contrib non-free
+deb http://archive.kalyxo.org/kalyxo/ experimental main
+deb http://archive.kalyxo.org/kalyxo/ staging main
+deb http://archive.progeny.com/symphonyos/apt/ ./
+deb http://archive.udsorg.ru/deb/ unstable main
+deb http://arda.LT-P.net/debian ./
+deb http://asbin.free.fr/ unstable contrib non-free
+deb http://asbin.free.fr/ unstable main contrib
+deb http://ayukawa.spb.ru/debian/ ./
+deb http://b.berteau.free.fr/ sarge main
+deb http://b.berteau.free.fr/ stable main
+deb http://bandcamp.tv/ stable main
+deb http://bif.lunix.com.ar/deb/ ./
+deb http://bignachos.com/~uniball/ debian/
+deb http://bioinformatics.pzr.uni-rostock.de/~moeller/debian/ ./
+deb http://biolinux.df.ibilce.unesp.br/interno ./
+deb http://biolinux.df.ibilce.unesp.br/pacotes/deb ./
+deb http://biolinux.df.ibilce.unesp.br/pacotes/old/deb ./
+deb http://biolinux.df.ibilce.unesp.br/pacotes/old/deb ./  
+deb http://bobek.sh.cvut.cz/aranym/ sid main
+deb http://boisson.homeip.net/python ./
+deb http://boisson.homeip.net/woody ./
+deb http://bok.fas.harvard.edu/debian/ ./
+deb http://borex.princeton.edu/~kmccarty/ stable main contrib non-free
+deb http://bostoncoop.net/adam/debian unstable main
+deb http://buga.buvoshetes.hu/debian/openntpd/binary-i386-sarge/ ./
+deb http://buga.buvoshetes.hu/debian/openntpd/binary-i386-sid/ ./
+deb http://buga.buvoshetes.hu/debian/openntpd/binary-i386-woody/ ./
+deb http://camorama.fixedgear.org/downloads/debian ./
+deb http://cernicalo.escomposlinux.org/debian/ binary/ 
+deb http://cernicalo.escomposlinux.org/~emeteo/debian/ binary/ 
+deb http://charybda.icm.edu.pl/~nare/debs ./
+deb http://cihar.com/debian/ ./
+deb http://cloxten.sourceforge.net/apt/cloxten/latest/Debian/woody ./
+deb http://cmeerw.org/files/debian woody bogofilter db4.1 directory-administrator elinks gq libpam-ldap lsh-utils neon pdns util-linux valgrind
+deb http://cobain.matteomoro.net/debian unstable/
+deb http://cojobo.bonn.de/~jordens/ardour-cvs ./
+deb http://coll.virtuos.uos.de woody-backport/binary/
+deb http://colo.khms.westfalen.de/Pakete unstable/
+deb http://cupcake.blastpoint.com/~jemenake/debian ./
+deb http://deb.opera.com/opera/ stable non-free
+deb http://deb.opera.com/opera/ testing non-free
+deb http://deb.opera.com/opera/ unstable non-free
+deb http://debian-hebrew.alioth.debian.org/debian unstable main
+deb http://debian.a3.nl/debian a3 main
+deb http://debian.alternc.org/ debian/
+deb http://debian.bootsplash.de unstable main deb-src http://debian.bootsplash.de unstable main
+deb http://debian.cihar.com/ unstable gammu
+deb http://debian.cihar.com/ unstable gammu 
+deb http://debian.cihar.com/ unstable mc
+deb http://debian.cihar.com/ unstable mpd
+deb http://debian.cihar.com/ unstable slovnik
+deb http://debian.cli.unipi.it/4sid/ sid sherpya
+deb http://debian.cli.unipi.it/debian/ woody sherpya
+deb http://debian.cli.unipi.it/experimental/ woody sherpya
+deb http://debian.creativa.cl/debian/woody/monkey/ ./
+deb http://debian.duckcorp.org/experimental/binary-i386/ ./
+deb http://debian.duckcorp.org/unstable/binary-i386/ ./
+deb http://debian.fabbione.net/debian-ipv6 sarge ipv6
+deb http://debian.fabbione.net/debian-ipv6 sid ipv6
+deb http://debian.fabbione.net/debian-ipv6 woody ipv6
+deb http://debian.hinterhof.net/ unstable/
+deb http://debian.houseofnate.net/ unstable nwt
+deb http://debian.icf.bofh.ru stable main
+deb http://debian.innovationsw.com/debian unstable/all/
+deb http://debian.innovationsw.com/debian unstable/i386/
+deb http://debian.ipsyn.net/debian woody ipsyn
+deb http://debian.isg.ee.ethz.ch/public woody airo-mpi
+deb http://debian.isg.ee.ethz.ch/public woody ifplugd
+deb http://debian.isg.ee.ethz.ch/public woody madwifi
+deb http://debian.jones.dk sarge misc
+deb http://debian.jones.dk sid misc
+deb http://debian.jones.dk woody misc
+deb http://debian.kcore.org ./
+deb http://debian.linux-systeme.com sid main
+deb http://debian.linuxia.de/ pure-ftpd main
+deb http://debian.mayhq.org/debian/ unstable main
+deb http://debian.medvantx.com/apt debian/opennms unstable
+deb http://debian.myreseau.org/ sarge main
+deb http://debian.myreseau.org/ woody main
+deb http://debian.netlands.de/debian unstable ntls
+deb http://debian.nix.hu/debian/ woody iproute+htb3
+deb http://debian.nix.hu/debian/ woody iptables+imq
+deb http://debian.nix.hu/debian/ woody kernel-patch-imq
+deb http://debian.nix.hu/debian/ woody netsaint-plugins-nix
+deb http://debian.oceighty.net/debian unstable main
+deb http://debian.openrat.de ./
+deb http://debian.phps.dk/ ./
+deb http://debian.plentyfact.net/packages/ ./
+deb http://debian.ressukka.net/ unstable/
+deb http://debian.sarcelle.net/ unstable main
+deb http://debian.schlittermann.de/debian-private stable main
+deb http://debian.sdinet.de/ sarge sdinet
+deb http://debian.sdinet.de/ sid sdinet
+deb http://debian.sdinet.de/ woody sdinet
+deb http://debian.sherpadown.net/ ./
+deb http://debian.sipo.nl sarge all
+deb http://debian.speedblue.org ./
+deb http://debian.speedblue.org/stable ./
+deb http://debian.stdout.at/ ./
+deb http://debian.thermoman.de sid all
+deb http://debian.thermoman.de woody all
+deb http://debian.thk-systems.de/debian testing/
+deb http://debian.thk-systems.de/debian unstable/
+deb http://debian.tryphon.org testing main contrib
+deb http://debian.tryphon.org unstable main contrib
+deb http://debian.twc.de/stable/i386 ./
+deb http://debian.twc.de/unstable/i386 ./
+deb http://debian.usefulinc.com/gnome ./
+deb http://debian.wesnoth.org/sid ./
+deb http://debian.wesnoth.org/woody ./
+deb http://debian.wgdd.de/debian experimental main contrib non-free
+deb http://debian.wgdd.de/debian sarge main contrib non-free
+deb http://debian.wgdd.de/debian sid main contrib non-free
+deb http://debian.wgdd.de/debian stable main contrib non-free
+deb http://debian.wgdd.de/debian unstable main contrib non-free
+deb http://debian.xmixahlx.com/packages/unstable/ ./
+deb http://debian.zeninteractif.com/debian binary/
+deb http://dept-info.labri.fr/~danjean/debian unstable main
+deb http://devel.dotdeb.org ./
+deb http://dgnr.sourceforge.net/ repository/
+deb http://didaho1.free.fr/cross unstable devel
+deb http://digitalssg.net/debian/ testing main
+deb http://dinton.no-ip.org/ kubuntu main
+deb http://dl.gna.org/kazehakase debian/
+deb http://dl.sourceforge.net/sourceforge/jedit ./
+deb http://doh.planet-d.net/debian/sid/ ./
+deb http://download.alcove-labs.org/packages/debian potato/alcove ./
+deb http://download.gna.org/osgchips/debian unstable/
+deb http://download.gna.org/praksys praksys-testing/
+deb http://download.gna.org/praksys praksys/
+deb http://download.gna.org/underware/debian unstable/
+deb http://download.skype.com/linux/repos/debian/ stable non-free
+deb http://download.videolan.org/pub/videolan/debian sarge main
+deb http://download.videolan.org/pub/videolan/debian sid main
+deb http://download.videolan.org/pub/videolan/debian woody main
+deb http://dredzik.ekg2.org/projekty/debian/ testing main
+deb http://dredzik.ekg2.org/projekty/debian/ unstable main
+deb http://easynews.dl.sourceforge.net/sourceforge/linuxrpms/ ./
+deb http://einsteinmg.dyndns.org/debian unstable/
+deb http://elonen.iki.fi/code/unofficial-debs-woody/ ./
+deb http://elonen.iki.fi/code/unofficial-debs/ ./
+deb http://emiml.ath.cx/ debian-sid-pakiety/
+deb http://ensl.free.fr/softeleves/debian unstable main
+deb http://eppesuigoccas.homedns.org/~giuseppe/debian testing ppcg4
+deb http://eppesuigoccas.homedns.org/~giuseppe/woodypkgs/ ./
+deb http://eric.gerbier.free.fr/download/pool ./
+deb http://eric.lavar.de/comp/linux/debian/ experimental/
+deb http://eric.lavar.de/comp/linux/debian/ unstable/
+deb http://erlug.linux.it/~da/deb/ ./
+deb http://eskuel.sourceforge.net/debian unstable main 
+deb http://etudiants.insia.org/ ~paudeoud/dist/
+deb http://everybody.good-day.net/~yamasaki/packages/kreetingkard/ ./
+deb http://eyagi.bpa.nu/~jamie/debian sarge main contrib non-free
+deb http://familiasanchez.net/~roberto/debian/ sarge main
+deb http://fiasko.dyndns.org/~thomas/debian/ stable alsa backports icecast2 kernel main non-free samba
+deb http://files.bdew.yi.org/debian/ unstable bdew
+deb http://fincos.homeip.net/debian ./
+deb http://fincos.homeip.net/debian /
+deb http://finik.org/debian unstable main
+deb http://fnord.csbnet.se/giftcurs stable main
+deb http://fred.hexbox.de/debian ./
+deb http://freevo.sourceforge.net/debian unstable main
+deb http://ftp.acc.umu.se/mirror/mirrors.evilgeniuses.org.uk/debian/backports/woody gnome2.2/
+deb http://ftp.acc.umu.se/mirror/mirrors.evilgeniuses.org.uk/debian/backports/woody/ gnome2.2/
+deb http://ftp.arege.jp/debian-arege potato ALL
+deb http://ftp.arege.jp/debian-arege sarge ALL
+deb http://ftp.arege.jp/debian-arege sid ALL
+deb http://ftp.arege.jp/debian-arege stable ALL
+deb http://ftp.arege.jp/debian-arege testing ALL
+deb http://ftp.arege.jp/debian-arege unstable ALL
+deb http://ftp.arege.jp/debian-arege woody ALL
+deb http://ftp.cc.com.au/pub/debian stable contrib
+deb http://ftp.cc.com.au/pub/debian stable main
+deb http://ftp.cc.com.au/pub/debian testing contrib
+deb http://ftp.cc.com.au/pub/debian testing main
+deb http://ftp.cc.com.au/pub/debian unstable contrib
+deb http://ftp.cc.com.au/pub/debian unstable main
+deb http://ftp.cc.com.au/pub/users/cafuego/yawc/i386 ./
+deb http://ftp.debian-unofficial.org/debian sarge main contrib non-free restricted
+deb http://ftp.freenet.de/pub/debian-openoffice/ woody main contrib
+deb http://ftp.lug.ro/people/gcbirzan/debian/ ./
+deb http://ftp.symbianos.org/debian sid main
+deb http://ftp.tux.org/pub/java/debian unstable main non-free
+deb http://ftp.unixdev.net/pub/debian-udev unixdev main non-free
+deb http://garbure.org/debian/ ./
+deb http://gate.polarhome.com:753/~hector_gm/debian woody amsn
+deb http://gate.polarhome.com:753/~hectorg/ debian main
+deb http://geekwg.dyndns.org/~renate/xml2po ./
+deb http://gelato.unsw.edu.au/debian unstable/$(ARCH)/
+deb http://gelato.unsw.edu.au/debian unstable/all/
+deb http://gjiten.sourceforge.net/ ./
+deb http://gmonsters.sourceforge.net/debian ./
+deb http://griffith.vasconunes.net/debian/ stable main
+deb http://griffith.vasconunes.net/debian/ unstable main
+deb http://hal.iwr.uni-heidelberg.de/debian/ blender/
+deb http://hal.iwr.uni-heidelberg.de/debian/ gift/
+deb http://helix.alioth.debian.org/deb sarge main non-free
+deb http://helix.alioth.debian.org/deb sid main non-free
+deb http://hemma.tobbe.nu/debian/ unstable/i386/
+deb http://holbytla.org/fai/debian woody main
+deb http://home.icequake.net/~nemesis/debian binary/
+deb http://home.planet.nl/~autar022/ ./
+deb http://home.snafu.de/stack/debian woody/
+deb http://http.debian.or.jp/debian-jp stable-jp main contrib non-free
+deb http://http.debian.or.jp/debian-jp testing-jp main contrib non-free
+deb http://http.debian.or.jp/debian-jp unstable-jp main contrib non-free
+deb http://http.guadalinex.org/repositorio muflon guada
+deb http://husky.sourceforge.net/debian unstable contrib non-free
+deb http://ideelabor.ee/debian ./
+deb http://idefix.eup.uva.es/soleup soleupix main java games openoffice
+deb http://ietpd1.sowi.uni-mainz.de/debian/unofficial ./
+deb http://ihpc.jcu.edu.au/~jc118215/debian/ ./
+deb http://im-ja.sourceforge.net/ ./
+deb http://incase.de/cyrus22/amd64/ ./
+deb http://incase.de/cyrus22/i386/ ./
+deb http://interreality.org/software/debian unstable main
+deb http://irssi.qvr.info/debian/ unstable/
+deb http://isi.homelinux.net/deb/main ./
+deb http://j.portalier.free.fr/debian testing main
+deb http://jay.bonci.com/debian/files /
+deb http://jeroen.coekaerts.be/debian/ unstable main contrib non-free
+deb http://jeroen.coekaerts.be/debian/ unstable main contrib non-free mirror
+deb http://jeroen.coekaerts.be/debian/ unstable mirror 
+deb http://jk24.free.fr/debian/ ./
+deb http://jopa.studentenweb.org/debian ./
+deb http://jrfonseca.dyndns.org/debian ./
+deb http://juergen.strobel.info/debian-strobel/ unstable kernel
+deb http://julien.valroff.free.fr unstable main contrib non-free
+deb http://kambing.vlsm.org/DLL/debian-local stable lokal
+deb http://kanotix.com/files/debian/ ./
+deb http://kempele.fi/~skyostil/debian ./
+deb http://kernellabo.alioth.debian.org/kernellabo/packages/redhat/ ./
+deb http://kibi.dyndns.org/truevision ./
+deb http://kitenet.net/~joey/debian/ experimental/
+deb http://kitenet.net/~joey/debian/ unstable/
+deb http://klaus.geekserver.net/debian binary/
+deb http://klokan.sh.cvut.cz/~medon/debs/ woody/
+deb http://kopete.creativa.cl/debian/sid ./
+deb http://kopete.creativa.cl/debian/woody ./
+deb http://kplayer.sourceforge.net/ ./
+deb http://labs.8d.com/debian/ backport main
+deb http://labs.8d.com/debian/ experimental main
+deb http://laylward.com/debian/ unstable/
+deb http://leeloo.lee-loo.net/~gaetan spip/
+deb http://leeloo.lee-loo.net/~gaetan/spip/ ./
+deb http://lemonldap.sourceforge.net/debian testing main
+deb http://lilik.it/users/mazzo/package ./
+deb http://linley.Informatik.TU-Cottbus.DE/debian/ kso main 
+deb http://linux.bb/debian ./
+deb http://linux.iatp.by/debian ./
+deb http://liyang.ucam.org/debian/ unstable main
+deb http://localhost.ruhr.de/~stefan/acerTM292/debian/ ./
+deb http://lpnotfr.free.fr/debian ./
+deb http://luca.nipl.net/debian ./
+deb http://luca.pca.it/debian/ ./
+deb http://ludde.net/debian/ unstable/
+deb http://luon.net/debian unstable main
+deb http://maczewski.dyndns.org/ptp2lib/ ./
+deb http://magnus.therning.org/apt ./
+deb http://mail.linuxvar.it/~gianluca/athlon-xp testing main
+deb http://mail.linuxvar.it/~gianluca/athlon-xp unstable main
+deb http://marillat.free.fr/ unstable main
+deb http://mars.iti.pk.edu.pl/~jakub/dist/sarge ./
+deb http://masy.families.jp/debian unstable ipv6
+deb http://mazesloup.free.fr/apt/ testing main
+deb http://mb-net.net/Debian testing main
+deb http://mdcc.cx/debian local contrib
+deb http://members.optusnet.com.au/ggt/debs ./
+deb http://members.westnet.com.au/takahe/debian/testing sarge main
+deb http://membres.lycos.fr/coval/debian ./
+deb http://metro.lezajsk.info/gg2/sarge ./
+deb http://metro.lezajsk.info/gg2/sid ./
+deb http://mfgames.com/debian unstable main
+deb http://mherrn.de/debian/ sarge exim
+deb http://mherrn.de/debian/ sarge hatari
+deb http://mherrn.de/debian/ sarge paranoia
+deb http://mherrn.de/debian/ sid exim
+deb http://mherrn.de/debian/ sid hatari
+deb http://mherrn.de/debian/ sid paranoia
+deb http://mherrn.de/debian/ woody exim
+deb http://mherrn.de/debian/ woody paranoia
+deb http://minkirri.apana.org.au/pub/debian-local/ ./
+deb http://mirror.opf.slu.cz/zabbix stable contrib
+deb http://mirror.opf.slu.cz/zabbix testing contrib
+deb http://mirror.opf.slu.cz/zabbix unstable contrib
+deb http://mirror.raw.no/ gnome2.2/
+deb http://mirror.xaranet.de/debian-backports/debian stable all
+deb http://mooix.net/download/ /
+deb http://moria.seul.org/~lexicon/debian ./
+deb http://mpo.iki.fi/debian binary/
+deb http://mulk.dyndns.org/apt/ unstable main
+deb http://mywebpages.comcast.net/ddamian/deb/ ./
+deb http://n.ethz.ch/student/robertjo/download/debian ./
+deb http://n.ethz.ch/student/robertjo/download/rj-deb/pkgs ./
+deb http://n.ethz.ch/student/wojekb/download/husi ./
+deb http://nagnag.de/debian unstable main
+deb http://namistai.nl.eu.org/debian testing/
+deb http://nathan.faho.rwth-aachen.de/debian/zope/ ./
+deb http://nemerle.org/download/deb/ ./
+deb http://neo.wh-stuttgart.de/debian sid valknut
+deb http://neo.wh-stuttgart.de/debian sid xorg
+deb http://netzverschmutzer.net/~sbeyer/debian unstable main
+deb http://nigow.mr-imp.net/debian/ etch main
+deb http://nigow.mr-imp.net/debian/ sarge main
+deb http://nigow.mr-imp.net/debian/ sid main
+deb http://nigow.mr-imp.net/debian/ stable main
+deb http://nigow.mr-imp.net/debian/ testing main
+deb http://nigow.mr-imp.net/debian/ unstable main
+deb http://non-gnu.uvt.nl/debian sarge mailman libnet-imap-simple-perl xstow fair
+deb http://noxa.de/~sbeyer/debian unstable main
+deb http://openix1.free.fr/ Debian/
+deb http://openoffice.gscc.osaka-cu.ac.jp/~yabuki/unstable ./
+deb http://opensource.polytechnique.org/debian ./
+deb http://organact.mine.nu/debian unstable-i386/
+deb http://organact.mine.nu/debian unstable/
+deb http://orinoco-usb.alioth.debian.org/debian unstable/
+deb http://orinoco-usb.alioth.debian.org/debian/ unstable/
+deb http://orniere-du-globe.net/debian ./
+deb http://osama.czad.org/debian woody unofficial
+deb http://ox.cs.bme.hu/ ./
+deb http://packages.debian-world.com ./
+deb http://packages.dotdeb.org ./
+deb http://packages.hurdfr.org/unstable/binary-hurd-i386/ ./
+deb http://packages.kirya.net unstable main contrib non-free
+deb http://paella.berlios.de/ sarge/
+deb http://pagesperso.laposte.net.nyud.net:8090/rzr/www.rzr.online.fr/debian ./
+deb http://pagesperso.laposte.net.nyud.net:8090/rzr/www.rzr.online.fr/debian ./ 
+deb http://panp.sourceforge.net/debian ./
+deb http://paulbaker.net/debian unstable main 
+deb http://people.debian.org/~acid stable pure-ftpd
+deb http://people.debian.org/~adconrad woody subversion
+deb http://people.debian.org/~amaya/debian ./
+deb http://people.debian.org/~ari experimental/
+deb http://people.debian.org/~ari unstable/
+deb http://people.debian.org/~asac/experimental ./
+deb http://people.debian.org/~aurel32/BACKPORTS stable main
+deb http://people.debian.org/~aurel32/SANE stable main
+deb http://people.debian.org/~ballombe/gap sarge main
+deb http://people.debian.org/~ballombe/gap sid main
+deb http://people.debian.org/~ballombe/gap woody main
+deb http://people.debian.org/~boll sid main
+deb http://people.debian.org/~boll woody main
+deb http://people.debian.org/~costela/debian ./
+deb http://people.debian.org/~daenzer/dri-mach64/ ./
+deb http://people.debian.org/~daenzer/dri-trunk/ ./
+deb http://people.debian.org/~dexter all hoary
+deb http://people.debian.org/~dexter all sarge
+deb http://people.debian.org/~dexter php5 sid
+deb http://people.debian.org/~dexter php5 woody
+deb http://people.debian.org/~dilinger/backports/pbuilder/ ./
+deb http://people.debian.org/~dilinger/backports/wordpress ./
+deb http://people.debian.org/~eric/debian/i386 ./
+deb http://people.debian.org/~frankie/debian woody/x421/
+deb http://people.debian.org/~hmh/woody/ hmh/cyrus/
+deb http://people.debian.org/~hmh/woody/ hmh/misc/
+deb http://people.debian.org/~ivan/woody/squirrelmail ./
+deb http://people.debian.org/~kay/debian/ woody phpmyadmin
+deb http://people.debian.org/~porridge/ekg-woody ./
+deb http://people.debian.org/~porridge/kernel-2.6-woody ./
+deb http://people.debian.org/~porridge/sms-pl-woody/ ./
+deb http://people.debian.org/~porridge/ydpdict-woody ./
+deb http://people.debian.org/~rcardenes sid main
+deb http://people.debian.org/~rcardenes woody main
+deb http://people.debian.org/~rene/openoffice.org/2.x/ ./
+deb http://people.debian.org/~sgran/debian sarge main
+deb http://people.debian.org/~sgran/debian woody main
+deb http://people.debian.org/~shaul/ staging/
+deb http://people.debian.org/~smimram/debian unstable main
+deb http://people.debian.org/~ssmeenk/snort-stable-i386/ ./
+deb http://people.debian.org/~thimo/ gnuplot-woody/
+deb http://people.debian.org/~tora/deb ./
+deb http://people.debian.org/~varenet/debian musicindex/
+deb http://people.hazent.com/~jrp/ubuntu breezy hazent
+deb http://people.hazent.com/~jrp/ubuntu hoary hazent
+deb http://people.realnode.com/~mnordstr/ package/
+deb http://people.realnode.com/~mnordstr/ package/sarge/
+deb http://people.via.ecp.fr/~remi/dist/debian unstable main contrib
+deb http://perlpimp.dk/static/debian stable main
+deb http://perlpimp.dk/static/debian unstable main
+deb http://perso.ens-lyon.fr/samuel.mimram/debian unstable main
+deb http://perso.wanadoo.fr.nyud.net:8090/rzr/www.rzr.online.fr/debian ./
+deb http://petr.jendrejovsky.cz/debian/ sarge main
+deb http://piem.homeip.net/~piem/debian binary/
+deb http://pkg-boinc.alioth.debian.org ./
+deb http://pkg-kde.alioth.debian.org/kde-3.4.1/ ./
+deb http://pmeerw.net/debian ./
+deb http://privat.traffic-eye.de/debian/packages ./
+deb http://private.vlsi.informatik.tu-darmstadt.de/tstone/debian/psc/ ./
+deb http://prometheus.psico.unimib.it/debian ./
+deb http://psycle.sourceforge.net/debian unstable main
+deb http://puga.vdu.lt/debian sarge main
+deb http://puga.vdu.lt/debian sid main
+deb http://pureftpd.sourceforge.net/debian/woody/ ./
+deb http://pytables.sourceforge.net/Debian unstable unofficial
+deb http://qcomicbook.horisone.com/ etch main
+deb http://qcomicbook.horisone.com/ hoary main
+deb http://qcomicbook.horisone.com/ sarge main
+deb http://qcomicbook.horisone.com/ sid main
+deb http://qcomicbook.horisone.com/ unstable main
+deb http://qtcsharp.sourceforge.net/debian unstable release
+deb http://rarewares.org/debian/packages/unstable/ ./
+deb http://repos.knio.it/ stable main contrib non-free
+deb http://repos.knio.it/ testing main contrib non-free
+deb http://repos.knio.it/ unstable main contrib non-free
+deb http://ressukka.net/~ressu/deb unstable/
+deb http://rigtorp.se/files/debian/ ./
+deb http://rioken.homelinux.net/deb/main ./
+deb http://robots.org.uk/debian freeciv-cvs/
+deb http://robots.org.uk/debian freeciv/
+deb http://sacha.free.net.ph/notebook/emacs/planner ./
+deb http://sadleder.de/debian/ ./
+deb http://sange.fi/~atehwa/ debian/
+deb http://scratchbox.org/debian ./
+deb http://sebastien.lardiere.free.fr/ ./postgresql8-i386/
+deb http://sebastien.phelep.free.fr/unofficial-debs/ ./ 
+deb http://security.dsi.unimi.it/~lorenzo/debian ./
+deb http://selfdestruct.net/debian sarge main
+deb http://selfdestruct.net/debian unstable main
+deb http://selfdestruct.net/debian woody main
+deb http://setedit.sourceforge.net/debian woody main
+deb http://sgolovan.nes.ru/debian/ ./
+deb http://silcnet.org/download/client/deb ./
+deb http://silcnet.org/download/server/deb ./
+deb http://silvestre.zabala.name/debian/ ./
+deb http://simon.bofh.ms/~gb/debian-dev/ ./
+deb http://simon.bofh.ms/~gb/debian/ ./
+deb http://sindominio.net/~caedes/debian unstable main
+deb http://sindominio.net/~caedes/debian/ unstable main
+deb http://sindominio.net/~koke/debian/ ./
+deb http://smarden.org/pape/Debian potato unofficial pape
+deb http://smarden.org/pape/Debian sarge unofficial pape
+deb http://smarden.org/pape/Debian woody unofficial pape
+deb http://snapshots.seconix.com/debian/ sarge main
+deb http://snapshots.seconix.com/debian/ sid main
+deb http://snapshots.seconix.com/debian/ woody main
+deb http://software.graeff.com/debian-graeff/ sarge main
+deb http://soulmachine.net/debian unstable/
+deb http://source.rfc822.org/pub/local/gnoppix/gnome/gnome2.4/ ./
+deb http://src.braincells.com/debian sid/
+deb http://src.braincells.com/debian woody/
+deb http://srmud.net/deb /
+deb http://stefan.desire.ch/debian testing main
+deb http://stosberg.net/debian sarge main
+deb http://studhome.rrze.uni-erlangen.de/~snsekapf/livexterm/debian sid main
+deb http://sven.stormbind.net/debian sarge fsp fspclient
+deb http://swapon.de/debian/ sarge/
+deb http://t2.technion.ac.il/~shlomil debs/
+deb http://terdmonk.com/debian/stable stable main
+deb http://terdmonk.com/debian/unstable unstable main
+deb http://termserv.berlios.de/debian stable main non-free
+deb http://termserv.berlios.de/debian testing non-free
+deb http://themind.altervista.org/debian unstable main
+deb http://thomas.enix.org/pub/debian/packages/hoary ./
+deb http://thomas.enix.org/pub/debian/packages/stable ./
+deb http://thomas.enix.org/pub/debian/packages/testing ./
+deb http://thomas.enix.org/pub/debian/packages/unstable ./
+deb http://tranq.dorms.spbu.ru/debian-local/ sid/
+deb http://tranq.dorms.spbu.ru/debian-local/ woody/
+deb http://twb.ath.cx/~twb/src/debianize sarge unofficial
+deb http://typo3.sunsite.dk/software/debian/ ./
+deb http://uqm.debian.net/ unstable/
+deb http://userpages.umbc.edu/~fu1/debian unstable main
+deb http://users.aber.ac.uk/ajw2/debian ./
+deb http://users.adelphia.net/~david.everly emilda/sarge/
+deb http://vdeffontaines.free.fr/debian/dists/ unstable/
+deb http://verlideb.sourceforge.net/debian unstable main
+deb http://w3you.com/dl/debian ./
+deb http://wajig.sarovar.org/debian ./
+deb http://warzavod.samara.net/mydebian stable updates
+deb http://webanetwork.free.fr/pub/debian unstable main 
+deb http://wine.sourceforge.net/apt/binary/ ./
+deb http://www-users.cs.umn.edu/~sdier/debian updates/wup/
+deb http://www.ada-france.org/debian ada main
+deb http://www.adebenham.com/debian/ ./
+deb http://www.amedias.org/~koke/debian unstable/
+deb http://www.arrakis.es/~frigola/pyslsk woody/
+deb http://www.assist.media.nagoya-u.ac.jp/~katsu/debian stable ALL
+deb http://www.assist.media.nagoya-u.ac.jp/~katsu/debian unstable ALL
+deb http://www.backports.org/debian stable all
+deb http://www.brlspeak.net/dev/debian/ stable main non-free
+deb http://www.brw.net/debian/ stable main non-free contrib
+deb http://www.bunkus.org/debian/unstable/ ./
+deb http://www.calno.com unstable main
+deb http://www.cgarbs.de/stuff ./
+deb http://www.chez.com/mathys/deb/ stable main
+deb http://www.cihar.com/mc-utf8/ ./
+deb http://www.cihar.com/slovnik-debian/ ./
+deb http://www.cluster.kiev.ua/support/files/chpox stable main
+deb http://www.cps-project.org/debian/testing/ ./
+deb http://www.cps-project.org/debian/unstable/ ./
+deb http://www.cse.unsw.edu.au/~alau/debian/ ./
+deb http://www.cse.unsw.edu.au/~alau/debian/ stable main
+deb http://www.cse.unsw.edu.au/~alau/debian/ unstable main
+deb http://www.csv.ica.uni-stuttgart.de/vrml/dune ./
+deb http://www.csv.ica.uni-stuttgart.de/vrml/dune/ ./
+deb http://www.cti.ecp.fr/~beauxir5/debian binary/
+deb http://www.dcl.hpi.uni-potsdam.de/debian binary/
+deb http://www.debian-desktop.org/pub/linux/debian/kde-3.4.0-rc1/ sarge main
+deb http://www.debian-desktop.org/pub/linux/debian/kde-3.4.1/ sarge main
+deb http://www.debian-desktop.org/pub/linux/debian/kde3.2 sarge main
+deb http://www.debian-desktop.org/pub/linux/debian/xfce4 sarge main
+deb http://www.debian-desktop.org/pub/linux/debian/xfree86-4.3.99pre10/ sarge main
+deb http://www.debian-desktop.org/pub/linux/debian/xorg-6.8.2/ sarge main
+deb http://www.debian-desktop.org/pub/linux/debian/xorg-6.8.99.15/ sarge main
+deb http://www.debian-desktop.org/pub/linux/xfree86-4.3.99pre10/ sid main
+deb http://www.decadence.it/debian/ sarge main non-free
+deb http://www.diku.dk/~jpsecher/ sarge/
+deb http://www.dogbiscuit.org/mdub/software/debian/unstable ./
+deb http://www.dreamind.de/debian/ woody-fixes main
+deb http://www.eecs.harvard.edu/~ccshan/debian ./
+deb http://www.esat.kuleuven.ac.be/~mleeman/debian unstable/	
+deb http://www.escomposlinux.org/rvm/wordtrans/ woody main console dictionaries
+deb http://www.eto.to/deb/ ./
+deb http://www.eurobob.eclipse.co.uk/hula debs/
+deb http://www.fbriere.net/debian/dists/stable ./
+deb http://www.fbriere.net/debian/dists/testing ./
+deb http://www.fbriere.net/debian/dists/unstable ./
+deb http://www.flashtux.org/debian unstable main
+deb http://www.fs.tum.de/~bunk/debian woody/bunk-1 main contrib non-free
+deb http://www.fs.tum.de/~bunk/debian woody/bunk-2 main contrib non-free
+deb http://www.fs.tum.de/~bunk/debian woody/kernel-26 main
+deb http://www.gallet.info.free.fr/debian/ sarge contrib main non-free
+deb http://www.geexbox.org/debian/ unstable main
+deb http://www.ggtools.net/files/debian/unstable/ ./
+deb http://www.ggtools.net/files/debian/woody ./
+deb http://www.gothgoose.net/debian/woody/backports binary/
+deb http://www.gwhere.org/download/debian unstable main
+deb http://www.gws-online.de/download/potato/ ./
+deb http://www.h.shuttle.de/mitch/stuff ./
+deb http://www.hellion.org.uk/debian sid ivtv
+deb http://www.hellion.org.uk/debian sid ivtv-unstable
+deb http://www.herdsoft.com/debian woody main non-free
+deb http://www.heydon.com.au/debian hoary/
+deb http://www.heydon.com.au/debian stable/
+deb http://www.heydon.com.au/debian unstable/
+deb http://www.hixsplit.hu/debian/ woody libgd2
+deb http://www.iaeste.at/~mbaehr/debian/ woody main
+deb http://www.igaelica.com/debian ./
+deb http://www.iiec.unam.mx/apt/ sarge cherokee
+deb http://www.intranet.com.py/debian ./
+deb http://www.inutility.net/debian/ stable mailscanner spamassassin ldap-ssl
+deb http://www.inzenet.free.fr/debian ./
+deb http://www.ivoronin.pp.ru/debian packages/
+deb http://www.j96.org/~kouji/tmp/ttf-ipafonts-installer/ ./
+deb http://www.janw.easynet.be/feddy/ i386/
+deb http://www.janw.easynet.be/picprog/ i386/
+deb http://www.janw.easynet.be/rox/ developer/
+deb http://www.janw.easynet.be/rox/ i386/
+deb http://www.janw.easynet.be/rox/ powerpc/
+deb http://www.jarre-de-the.net/computing/debian/ stable main
+deb http://www.kde.org.ua/debs/unstable ./
+deb http://www.kern.nl/debian woody main
+deb http://www.kiberpipa.org/~minmax/cinelerra/builds/sid/ ./
+deb http://www.knizefamily.net/russ/software/debian/ ./
+deb http://www.landshut.org/members/db1ras/debian woody all
+deb http://www.leoserra.uaivip.com.br/debian/funcoeszz/ ./
+deb http://www.lesdeveloppementsdurables.org/debian/ sarge dbxml2 python-bsddb3
+deb http://www.lichtenheld.de/debian/ ./
+deb http://www.linex.org/sources/linex/debian sarge linex
+deb http://www.linex.org/sources/linex/debian woody linex
+deb http://www.linux.lk/~anuradha/nx/ ./
+deb http://www.linuxbh.org/naarea/ pacotes/
+deb http://www.litux.org/debian mirror/
+deb http://www.litux.org/debian stable/
+deb http://www.litux.org/debian testing/
+deb http://www.litux.org/debian unstable/
+deb http://www.logic.at/debian/ $(ARCH)/
+deb http://www.logic.univie.ac.at/~ametzler/debian/exim4manpages/ woody/
+deb http://www.logic.univie.ac.at/~ametzler/debian/gnutls/ woody/
+deb http://www.logilab.org/ftp/pub/debian unstable/
+deb http://www.lubemobile.com.au/ras/debian/sarge/clit ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/conspy ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/dri-mach64-sid ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/faad2 ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/ffmpeg ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/kernel-patch-linuxabi ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/kernel-patch-pwc ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/lame ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/libapache-mod-fastcgi ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/libtommath ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/motion-nonfree ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/mpkg-j2se ./
+deb http://www.lubemobile.com.au/ras/debian/sarge/tightvnc ./
+deb http://www.lychnis.net/files/debian unstable/all/
+deb http://www.lychnis.net/files/debian unstable/i386/
+deb http://www.madhack.com/debian woody aide
+deb http://www.madhack.com/debian woody gnome-pilot
+deb http://www.maretmanu.org/debian sarge main
+deb http://www.maretmanu.org/debian woody main
+deb http://www.marssoft.de/debian/ testing main
+deb http://www.meaculpa.demon.nl/symon sarge unofficial
+deb http://www.meaculpa.demon.nl/symon sid unofficial
+deb http://www.meaculpa.demon.nl/symon woody unofficial
+deb http://www.mech.gla.ac.uk/~gbevan/mtt/ ./
+deb http://www.micq.org/debian stable main
+deb http://www.micq.org/debian unstable main
+deb http://www.miernik.ctnet.pl/debian unstable main
+deb http://www.mirror.ac.uk/sites/ftp.i-scream.org/pub/i-scream/packages/debian unstable main
+deb http://www.miwie.org/ ./
+deb http://www.mycgiserver.com/~fabrizio/software/debian stable main
+deb http://www.netlabs.org/people/lynx/debian unstable main
+deb http://www.okay.dyndns.org/okhp/linux/aptable/ coreutils-with-progress-bar/
+deb http://www.okay.dyndns.org/okhp/linux/aptable/ metacity-with-always-on-top/
+deb http://www.okay.dyndns.org/okhp/linux/aptable/ own-programs/
+deb http://www.open-steam.org/Download/debian ./
+deb http://www.openoffice.de/debian/ stable main
+deb http://www.opensky.ca/~jdhildeb/debian/ unstable/
+deb http://www.os-works.com/debian testing main
+deb http://www.pcxperience.org/apt/debian stable/
+deb http://www.pcxperience.org/apt/debian unstable/
+deb http://www.perrier.eu.org/samba-debian stable main
+deb http://www.pgadmin.org/snapshots/linux/debian experimental pgadmin
+deb http://www.pgadmin.org/snapshots/linux/debian testing pgadmin
+deb http://www.pgadmin.org/snapshots/linux/debian unstable pgadmin
+deb http://www.pgadmin.org/snapshots/linux/debian woody pgadmin
+deb http://www.physik.tu-cottbus.de/~george/debian unstable/$(ARCH)/
+deb http://www.physik.tu-cottbus.de/~george/debian unstable/all/
+deb http://www.ping.de/knoppix/sarge/main/ ./
+deb http://www.pjwstk.edu.pl/~s3238/repo/ ./
+deb http://www.plaisthos.de/deb/ ./
+deb http://www.planamente.ch/emidio/debian testing main
+deb http://www.planet-moll.de/debian sarge main
+deb http://www.planet-moll.de/debian woody main
+deb http://www.proesdorf.de/debian/ stable main contrib
+deb http://www.qbalt.com/debian/woody ./
+deb http://www.quakeforge.net/packages/debian unstable contrib non-free
+deb http://www.rit.bme.hu/~balsa debian/
+deb http://www.rit.bme.hu/~balsa debian_devel/
+deb http://www.rit.bme.hu/~balsa experimental/
+deb http://www.riteh.hr/~vedranf/debian_experimental ./
+deb http://www.riteh.hr/~vedranf/debian_unstable ./
+deb http://www.roughtrade.net/debian sid main
+deb http://www.roughtrade.net/debian woody main
+deb http://www.rzr.free.fr.9online.fr/debian ./
+deb http://www.rzr.free.fr.9online.fr/debian/ ./
+deb http://www.skyhub.de/debian/ unstable main
+deb http://www.ssw.uni-linz.ac.at/Research/Projects/Coco/packages ./
+deb http://www.steve.org.uk/apt ./
+deb http://www.stex.name/debian ./
+deb http://www.stud.tu-ilmenau.de/~thsc-in/debian/ unstable main
+deb http://www.stud.tu-ilmenau.de/~thsc-in/debian/ woody main
+deb http://www.stuff.demon.co.uk/apt/ i386/
+deb http://www.thomas-alfeld.de/frank/download/debian/ ./
+deb http://www.toasa.net/debian/sarge/ binary/
+deb http://www.toastfreeware.priv.at/debian stable/
+deb http://www.toastfreeware.priv.at/debian testing/
+deb http://www.toastfreeware.priv.at/debian unstable/
+deb http://www.togaware.com/debian ./
+deb http://www.tu-harburg.de/~vkv/debian ./
+deb http://www.tux.org/pub/java/debian sarge non-free
+deb http://www.tux.org/pub/java/debian sid main non-free
+deb http://www.tux.org/pub/java/debian testing non-free
+deb http://www.uft.uni-bremen.de/chemie/ranke/debs ./
+deb http://www.uni-ulm.de/~s_mgerla/debian ./
+deb http://www.vanadac.com/~dajhorn/projects/debian-pptp woody main
+deb http://www.wakhok.ac.jp/~fujimura/debian ./
+deb http://www.webalice.it/hayarms/debian unstable non-free
+deb http://www.wh9.tu-dresden.de/~gawain/debian/sid ./
+deb http://www.wh9.tu-dresden.de/~gawain/debian/woody ./
+deb http://www.winischhofer.net/sis/debian/stable ./
+deb http://www.winischhofer.net/sis/debian/unstable ./
+deb http://www.zero-based.org/debian packages/binary-i386/
+deb http://xawdecode.sourceforge.net/debian/ binary/
+deb http://xfce.corsac.net stable main
+deb http://y-imai.good-day.net/debian ./
+deb http://yomix.org/debian/ binary/
+deb http://yoyo.cc.monash.edu.au/~trent/deb sid main
+deb http://zaron.debian.pl/debian stable main
+deb http://zweistein12.dyndns.org/pub/debian/pyopenoffice/ ./
+deb http://zynthetix.free.fr/debian unstable main
+deb-src ftp://fisher.ciencias.uniovi.es/debian unstable main
+deb-src ftp://ftp.berlios.de/pub/egachine/mingwcross sarge main
+deb-src ftp://ftp.berlios.de/pub/gift-fasttrack stable main
+deb-src ftp://ftp.berlios.de/pub/gift-fasttrack unstable main
+deb-src ftp://ftp.berlios.de/pub/qrc debian/sarge/
+deb-src ftp://ftp.duckcorp.org/myserver/ ./ 
+deb-src ftp://ftp.inria.fr/INRIA/Projects/cristal/geneweb/Linux/DEBIAN/ woody geneweb
+deb-src ftp://ftp.las.ic.unicamp.br/pub/debian-marillat unstable main
+deb-src ftp://ftp.mowgli.ch/pub/debian sarge unofficial
+deb-src ftp://ftp.mowgli.ch/pub/debian sid unofficial
+deb-src ftp://ftp.uni-marburg.de/linux/debian sarge openldap-2.2.15
+deb-src ftp://ftp.uni-marburg.de/linux/debian sarge openldap-2.2.17
+deb-src ftp://ftp.uni-marburg.de/linux/debian sarge openldap-2.2.23
+deb-src ftp://instantafs.cbs.mpg.de/instantafs/sarge/ /
+deb-src ftp://instantafs.cbs.mpg.de/instantafs/sid/ /
+deb-src ftp://instantafs.cbs.mpg.de/instantafs/woody/ /
+deb-src ftp://progn.org/debian unstable main
+deb-src ftp://silcnet.org/silc/client/deb ./
+deb-src ftp://silcnet.org/silc/server/deb ./
+deb-src http://agrogeomatic.educagri.fr/debian stable main
+deb-src http://alexandre.beneteau.free.fr/debian unstable main
+deb-src http://anakonda.altervista.org/debian sources/
+deb-src http://antti-juhani.kaijanaho.info/dctrl-tools-experimental/ ./
+deb-src http://apt.heanet.ie/ heanet contrib
+deb-src http://apt.logreport.org/pub/debian local contrib
+deb-src http://apt.ox.no/ unstable/
+deb-src http://apt.pgpackages.org/debian sarge main contrib non-free
+deb-src http://apt.pgpackages.org/debian sid main contrib non-free
+deb-src http://apt.pgpackages.org/debian woody main contrib non-free
+deb-src http://archive.udsorg.ru/deb/ unstable main
+deb-src http://arda.LT-P.net/debian ./
+deb-src http://bignachos.com/~uniball/ debian/
+deb-src http://bok.fas.harvard.edu/debian/ ./
+deb-src http://borex.princeton.edu/~kmccarty/ stable main contrib non-free
+deb-src http://buga.buvoshetes.hu/debian/openntpd/source/ ./
+deb-src http://cojobo.bonn.de/~jordens/ardour-cvs ./
+deb-src http://coll.virtuos.uos.de woody-backport/source/
+deb-src http://colo.khms.westfalen.de/Pakete unstable/
+deb-src http://debian.alternc.org debian/
+deb-src http://debian.cihar.com/ unstable gammu 
+deb-src http://debian.cihar.com/ unstable mc
+deb-src http://debian.cihar.com/ unstable mpd
+deb-src http://debian.cli.unipi.it/4sid/ sid sherpya
+deb-src http://debian.cli.unipi.it/debian/ woody sherpya
+deb-src http://debian.cli.unipi.it/experimental/ woody sherpya
+deb-src http://debian.fabbione.net/debian-ipv6 sarge ipv6
+deb-src http://debian.fabbione.net/debian-ipv6 sid ipv6
+deb-src http://debian.fabbione.net/debian-ipv6 woody ipv6
+deb-src http://debian.hinterhof.net/ unstable/
+deb-src http://debian.houseofnate.net/ unstable nwt
+deb-src http://debian.innovationsw.com/debian unstable/source/
+deb-src http://debian.ipsyn.net/debian woody ipsyn
+deb-src http://debian.linux-systeme.com sid main
+deb-src http://debian.medvantx.com/apt debian/opennms unstable
+deb-src http://debian.myreseau.org/ testing main
+deb-src http://debian.sdinet.de/ woody sdinet
+deb-src http://debian.sipo.nl sarge all
+deb-src http://debian.speedblue.org ./
+deb-src http://debian.speedblue.org/stable ./ 
+deb-src http://debian.thermoman.de woody all
+deb-src http://debian.thk-systems.de/debian testing/
+deb-src http://debian.thk-systems.de/debian unstable/
+deb-src http://debian.usefulinc.com/gnome ./
+deb-src http://debian.wesnoth.org/sid ./
+deb-src http://debian.wesnoth.org/woody ./
+deb-src http://debian.wgdd.de/debian experimental main contrib non-free
+deb-src http://debian.wgdd.de/debian sarge main contrib non-free
+deb-src http://debian.wgdd.de/debian sid main contrib non-free
+deb-src http://debian.wgdd.de/debian stable main contrib non-free
+deb-src http://debian.wgdd.de/debian unstable main contrib non-free
+deb-src http://debian.zeninteractif.com/debian source/
+deb-src http://dept-info.labri.fr/~danjean/debian unstable main
+deb-src http://des.petta-tech.bogomips.org/~eric/MusicPD/releases ./
+deb-src http://dinton.no-ip.org/ kubuntu main
+deb-src http://dl.gna.org/kazehakase debian/
+deb-src http://dl.sourceforge.net/sourceforge/jedit ./
+deb-src http://doh.planet-d.net/debian/sid/ ./
+deb-src http://download.videolan.org/pub/videolan/debian sarge main
+deb-src http://download.videolan.org/pub/videolan/debian sid main
+deb-src http://download.videolan.org/pub/videolan/debian woody main
+deb-src http://einsteinmg.dyndns.org/debian unstable/
+deb-src http://elonen.iki.fi/code/unofficial-debs-woody/ ./
+deb-src http://elonen.iki.fi/code/unofficial-debs/ ./
+deb-src http://ensl.free.fr/softeleves/debian unstable main
+deb-src http://eric.lavar.de/comp/linux/debian/ experimental/
+deb-src http://eric.lavar.de/comp/linux/debian/ unstable/
+deb-src http://erlug.linux.it/~da/deb/ ./
+deb-src http://everybody.good-day.net/~yamasaki/packages/kreetingkard/ ./
+deb-src http://eyagi.bpa.nu/~jamie/debian sarge main contrib non-free
+deb-src http://familiasanchez.net/~roberto/debian/ sarge main
+deb-src http://fnord.csbnet.se/giftcurs stable main
+deb-src http://ftp.acc.umu.se/mirror/mirrors.evilgeniuses.org.uk/debian/backports/woody gnome2.2/
+deb-src http://ftp.acc.umu.se/mirror/mirrors.evilgeniuses.org.uk/debian/backports/woody gnome2.2/ 
+deb-src http://ftp.arege.jp/debian-arege potato ALL
+deb-src http://ftp.arege.jp/debian-arege sarge ALL
+deb-src http://ftp.arege.jp/debian-arege sid ALL
+deb-src http://ftp.arege.jp/debian-arege stable ALL
+deb-src http://ftp.arege.jp/debian-arege testing ALL
+deb-src http://ftp.arege.jp/debian-arege unstable ALL
+deb-src http://ftp.arege.jp/debian-arege woody ALL
+deb-src http://ftp.debian-unofficial.org/debian sarge main contrib non-free restricted
+deb-src http://ftp.debian.org/debian unstable non-free
+deb-src http://ftp.unixdev.net/pub/debian-udev unixdev main non-free
+deb-src http://garbure.org/debian/ ./
+deb-src http://gelato.unsw.edu.au/debian/ unstable/source/
+deb-src http://gjiten.sourceforge.net/ ./
+deb-src http://home.icequake.net/~nemesis/debian source/
+deb-src http://home.planet.nl/~autar022/ ./
+deb-src http://http.debian.or.jp/debian-jp stable-jp main contrib non-free
+deb-src http://http.debian.or.jp/debian-jp testing-jp main contrib non-free
+deb-src http://http.debian.or.jp/debian-jp unstable-jp main contrib non-free
+deb-src http://ietpd1.sowi.uni-mainz.de/debian/unofficial ./
+deb-src http://im-ja.sourceforge.net/ ./
+deb-src http://incase.de/cyrus22/ ./
+deb-src http://j.portalier.free.fr/debian testing main
+deb-src http://jeroen.coekaerts.be/debian/ unstable main contrib non-free
+deb-src http://jk24.free.fr/debian/ ./
+deb-src http://jopa.studentenweb.org/debian ./
+deb-src http://juergen.strobel.info/debian-strobel/ unstable kernel
+deb-src http://kitenet.net/~joey/debian/ unstable/
+deb-src http://kopete.creativa.cl/debian/sid ./
+deb-src http://laylward.com/debian/ unstable/
+deb-src http://linley.Informatik.TU-Cottbus.DE/debian/ kso main
+deb-src http://luca.pca.it/debian/ ./
+deb-src http://maczewski.dyndns.org/ptp2lib/ ./
+deb-src http://masy.families.jp/debian unstable ipv6
+deb-src http://mfgames.com/debian unstable main
+deb-src http://mherrn.de/debian/ sarge exim
+deb-src http://mherrn.de/debian/ sarge hatari
+deb-src http://mherrn.de/debian/ sarge paranoia
+deb-src http://mherrn.de/debian/ sid exim
+deb-src http://mherrn.de/debian/ sid hatari
+deb-src http://mherrn.de/debian/ sid paranoia
+deb-src http://mherrn.de/debian/ woody paranoia
+deb-src http://mirror.opf.slu.cz/zabbix stable contrib
+deb-src http://mirror.opf.slu.cz/zabbix testing contrib
+deb-src http://mirror.opf.slu.cz/zabbix unstable contrib
+deb-src http://moria.seul.org/~lexicon/debian ./
+deb-src http://mpo.iki.fi/debian source/
+deb-src http://mulk.dyndns.org/apt/ unstable main
+deb-src http://mywebpages.comcast.net/ddamian/deb/ ./
+deb-src http://n.ethz.ch/student/robertjo/download/debian ./
+deb-src http://n.ethz.ch/student/robertjo/download/rj-deb/pkgs ./
+deb-src http://nagnag.de/debian unstable main
+deb-src http://nemerle.org/donwload/deb/ ./
+deb-src http://noxa.de/~sbeyer/debian unstable main
+deb-src http://openoffice.gscc.osaka-cu.ac.jp/~yabuki/unstable ./
+deb-src http://opensource.polytechnique.org/debian ./
+deb-src http://orniere-du-globe.net/debian ./
+deb-src http://packages.kirya.net unstable main contrib non-free
+deb-src http://paella.berlios.de/ sarge/
+deb-src http://panp.sourceforge.net/debian ./
+deb-src http://paulbaker.net/debian unstable main
+deb-src http://people.debian.org/~amaya/debian ./
+deb-src http://people.debian.org/~ari experimental/
+deb-src http://people.debian.org/~ari unstable/
+deb-src http://people.debian.org/~asac/experimental ./
+deb-src http://people.debian.org/~aurel32/BACKPORTS stable main
+deb-src http://people.debian.org/~aurel32/SANE stable main
+deb-src http://people.debian.org/~ballombe/gap sarge main
+deb-src http://people.debian.org/~ballombe/gap sid main
+deb-src http://people.debian.org/~ballombe/gap woody main
+deb-src http://people.debian.org/~costela/debian ./
+deb-src http://people.debian.org/~daenzer/dri-mach64/ ./
+deb-src http://people.debian.org/~daenzer/dri-trunk/ ./
+deb-src http://people.debian.org/~dexter php5 sid
+deb-src http://people.debian.org/~dexter php5 woody
+deb-src http://people.debian.org/~porridge/sms-pl-woody/ ./
+deb-src http://people.debian.org/~porridge/ydpdict-woody ./
+deb-src http://people.debian.org/~rcardenes sid main
+deb-src http://people.debian.org/~rcardenes woody main
+deb-src http://people.debian.org/~sgran/debian sarge main
+deb-src http://people.debian.org/~sgran/debian woody main
+deb-src http://people.debian.org/~shaul/ staging/
+deb-src http://people.debian.org/~smimram/debian unstable main
+deb-src http://people.debian.org/~tora/deb ./
+deb-src http://people.realnode.com/~mnordstr/ package/
+deb-src http://people.realnode.com/~mnordstr/ package/sarge/
+deb-src http://perlpimp.dk/static/debian stable main
+deb-src http://perlpimp.dk/static/debian unstable main
+deb-src http://perso.ens-lyon.fr/samuel.mimram/debian unstable main
+deb-src http://piem.homeip.net/~piem/debian source/
+deb-src http://pkg-boinc.alioth.debian.org ./
+deb-src http://psycle.sourceforge.net/debian unstable main
+deb-src http://puga.vdu.lt/debian sarge main
+deb-src http://puga.vdu.lt/debian sid main
+deb-src http://pytables.sourceforge.net/Debian unstable unofficial
+deb-src http://qcomicbook.horisone.com/ etch main
+deb-src http://qcomicbook.horisone.com/ hoary main
+deb-src http://qcomicbook.horisone.com/ sarge main
+deb-src http://qcomicbook.horisone.com/ sid main
+deb-src http://qcomicbook.horisone.com/ unstable main
+deb-src http://repos.knio.it/ stable main contrib non-free
+deb-src http://repos.knio.it/ testing main contrib non-free 
+deb-src http://repos.knio.it/ unstable main contrib non-free
+deb-src http://ressukka.net/~ressu/deb unstable/
+deb-src http://rigtorp.se/files/debian/ ./
+deb-src http://sadleder.de/debian/ ./
+deb-src http://security.dsi.unimi.it/~lorenzo/debian ./
+deb-src http://silcnet.org/download/client/deb ./
+deb-src http://silcnet.org/download/server/deb ./
+deb-src http://smarden.org/pape/Debian potato unofficial pape
+deb-src http://smarden.org/pape/Debian sarge unofficial pape
+deb-src http://smarden.org/pape/Debian woody unofficial pape
+deb-src http://snapshots.seconix.com/debian/ sarge main
+deb-src http://snapshots.seconix.com/debian/ sid main
+deb-src http://snapshots.seconix.com/debian/ woody main
+deb-src http://source.rfc822.org/pub/local/gnoppix/gnome/gnome2.4/ ./
+deb-src http://sources.dotdeb.org ./
+deb-src http://src.braincells.com/debian sid/
+deb-src http://src.braincells.com/debian woody/
+deb-src http://stefan.desire.ch/debian testing main
+deb-src http://stosberg.net/debian sarge main
+deb-src http://termserv.berlios.de/debian stable main non-free
+deb-src http://termserv.berlios.de/debian testing non-free
+deb-src http://themind.altervista.org/debian unstable main
+deb-src http://typo3.sunsite.dk/software/debian/ ./
+deb-src http://userpages.umbc.edu/~fu1/debian unstable main
+deb-src http://users.adelphia.net/~david.everly emilda/sarge/
+deb-src http://vdeffontaines.free.fr/debian/dists/ unstable/
+deb-src http://wine.sourceforge.net/apt/source/ ./
+deb-src http://www.ada-france.org/debian ada main
+deb-src http://www.adebenham.com/debian/ ./
+deb-src http://www.amedias.org/~koke/debian unstable/
+deb-src http://www.assist.media.nagoya-u.ac.jp/~katsu/debian stable ALL
+deb-src http://www.assist.media.nagoya-u.ac.jp/~katsu/debian unstable ALL
+deb-src http://www.brlspeak.net/dev/debian/ stable main non-free
+deb-src http://www.bunkus.org/debian/unstable/ ./
+deb-src http://www.cgarbs.de/stuff ./
+deb-src http://www.cluster.kiev.ua/support/files/chpox stable main
+deb-src http://www.cps-project.org/debian/testing/ ./
+deb-src http://www.cps-project.org/debian/unstable/ ./
+deb-src http://www.cse.unsw.edu.au/~alau/debian/ ./
+deb-src http://www.cse.unsw.edu.au/~alau/debian/ stable main
+deb-src http://www.cse.unsw.edu.au/~alau/debian/ unstable main
+deb-src http://www.csv.ica.uni-stuttgart.de/vrml/dune/ ./
+deb-src http://www.cti.ecp.fr/~beauxir5/debian source/
+deb-src http://www.debian-desktop.org/pub/linux/debian/kde-3.4.1/ sarge main
+deb-src http://www.debian-desktop.org/pub/linux/debian/kde3.2 sarge main
+deb-src http://www.debian-desktop.org/pub/linux/debian/xfce4 sarge main
+deb-src http://www.debian-desktop.org/pub/linux/debian/xfree86-4.3.99pre10/ sarge main
+deb-src http://www.debian-desktop.org/pub/linux/debian/xorg-6.8.99.15/ sarge main
+deb-src http://www.dreamind.de/debian/ woody-fixes main
+deb-src http://www.eto.to/deb/ ./
+deb-src http://www.fbriere.net/debian/dists/stable ./
+deb-src http://www.fbriere.net/debian/dists/testing ./
+deb-src http://www.fbriere.net/debian/dists/unstable ./
+deb-src http://www.fs.tum.de/~bunk/debian woody/bunk-1 main contrib non-free
+deb-src http://www.fs.tum.de/~bunk/debian woody/bunk-2 main contrib non-free
+deb-src http://www.fs.tum.de/~bunk/debian woody/kernel-26 main
+deb-src http://www.ggtools.net/files/debian/woody ./
+deb-src http://www.gothgoose.net/debian/woody/backports source/
+deb-src http://www.gwhere.org/download/debian unstable main
+deb-src http://www.h.shuttle.de/mitch/stuff ./
+deb-src http://www.herdsoft.com/debian woody main
+deb-src http://www.heydon.com.au/debian stable/
+deb-src http://www.heydon.com.au/debian unstable/
+deb-src http://www.iiec.unam.mx/apt/ sarge cherokee
+deb-src http://www.inutility.net/debian/ stable mailscanner spamassassin ldap-ssl
+deb-src http://www.ivoronin.pp.ru/debian sources/
+deb-src http://www.j96.org/~kouji/tmp/ttf-ipafonts-installer/ ./
+deb-src http://www.knizefamily.net/russ/software/debian/ ./
+deb-src http://www.lesdeveloppementsdurables.org/debian/ sarge dbxml2 python-bsddb3 xerces
+deb-src http://www.lichtenheld.de/debian/ ./
+deb-src http://www.litux.org/debian mirror/
+deb-src http://www.litux.org/debian stable/
+deb-src http://www.litux.org/debian testing/
+deb-src http://www.litux.org/debian unstable/
+deb-src http://www.lychnis.net/files/debian unstable/source/
+deb-src http://www.madhack.com/debian woody aide
+deb-src http://www.madhack.com/debian woody gnome-pilot
+deb-src http://www.maretmanu.org/debian sarge main
+deb-src http://www.maretmanu.org/debian woody main
+deb-src http://www.mech.gla.ac.uk/~gbevan/mtt/ ./
+deb-src http://www.mirror.ac.uk/sites/ftp.i-scream.org/pub/i-scream/packages/debian unstable main
+deb-src http://www.os-works.com/debian testing main
+deb-src http://www.pcxperience.org/apt/debian stable/
+deb-src http://www.pcxperience.org/apt/debian unstable/
+deb-src http://www.perrier.eu.org/samba-debian stable main
+deb-src http://www.pgadmin.org/snapshots/linux/debian experimental pgadmin
+deb-src http://www.pgadmin.org/snapshots/linux/debian testing pgadmin
+deb-src http://www.pgadmin.org/snapshots/linux/debian unstable pgadmin
+deb-src http://www.pgadmin.org/snapshots/linux/debian woody pgadmin
+deb-src http://www.physik.tu-cottbus.de/~george/debian unstable/source/
+deb-src http://www.pjwstk.edu.pl/~s3238/repo/ ./
+deb-src http://www.plaisthos.de/deb/ ./
+deb-src http://www.plaisthos.de/deb/ ./ 
+deb-src http://www.riteh.hr/~vedranf/debian_experimental ./
+deb-src http://www.riteh.hr/~vedranf/debian_unstable ./
+deb-src http://www.roughtrade.net/debian sid main
+deb-src http://www.roughtrade.net/debian woody main
+deb-src http://www.skyhub.de/debian/ unstable main
+deb-src http://www.steve.org.uk/apt ./
+deb-src http://www.stex.name/debian ./
+deb-src http://www.stud.tu-ilmenau.de/~thsc-in/debian/ unstable main
+deb-src http://www.stud.tu-ilmenau.de/~thsc-in/debian/ woody main
+deb-src http://www.stuff.demon.co.uk/apt/ source/
+deb-src http://www.thomas-alfeld.de/frank/download/debian/ ./
+deb-src http://www.toastfreeware.priv.at/debian stable/
+deb-src http://www.toastfreeware.priv.at/debian testing/
+deb-src http://www.toastfreeware.priv.at/debian unstable/
+deb-src http://www.uni-ulm.de/~s_mgerla/debian ./
+deb-src http://www.vanadac.com/~dajhorn/projects/debian-pptp woody main
+deb-src http://www.wakhok.ac.jp/~fujimura/debian ./
+deb-src http://www.webalice.it/hayarms/debian unstable non-free
+deb-src http://www.winischhofer.net/sis/debian/stable ./
+deb-src http://www.winischhofer.net/sis/debian/unstable ./
+deb-src http://www.zero-based.org/debian packages/source/
+deb-src http://xawdecode.sourceforge.net/debian/ source/
+deb-src http://y-imai.good-day.net/debian ./
+deb-src http://yomix.org/debian/ source/
+deb-src http://zynthetix.free.fr/debian unstable main

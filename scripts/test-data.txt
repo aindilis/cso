@@ -1,0 +1,7 @@
+SUNDANCE (Sentence UNDerstanding ANd Concept Extraction) and autoannotate are software developed by the NLP laboratory at the University of Utah. OpinionFinder uses version 4.37 of SUNDANCE.
+SCOL, version 1k is a partial parser, which has several tools, including a stemmer.
+BoosTexter 2.1 is an implementation of a boosting machine learning algorithm developed by Erin Allwein, Robert Schapire, and Yoram Singer.
+WordNet 1.6 is lexical reference system developed at Princeton University.
+OpenNLP 1.3.0 is a set of Natural Language Processing tools. The files from OpenNLP that are necessary for our program to run have been put in the lib folder so OpinionFinder can access them.
+The SourceFinder is software developed by the NLP groups at Cornell University and the University of Utah. See Choi et al. (2005) for more information.
+PyWordNet 1.6 is used by the direct subjective expression and speech event classifier. For information about PyWordNet or to download a copy, go to http://osteele.com/projects/pywordnet/.

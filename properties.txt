@@ -1,0 +1,2 @@
+(is-reliable ?software-distribution)
+(has-a-stable-development-process ?software-distribution)
